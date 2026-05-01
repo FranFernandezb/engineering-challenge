@@ -1,0 +1,601 @@
+transaction_id,merchant_id,merchant_name,mcc,amount,currency,transaction_date,card_bin,card_last_four,card_type,issuer_country,processor_name,status
+TXN-00001,MERCH-003,Tokopulse Premium Subscription,5816,68240.67,IDR,2026-04-09,424242,8313,credit,ID,ProcessorAlpha,approved
+TXN-00002,MERCH-001,Tokopulse Wallet Topup,5912,66343.74,IDR,2026-02-11,453210,9264,credit,ID,ProcessorBeta,approved
+TXN-00003,MERCH-002,Tokopulse Marketplace,5999,474.12,USD,2026-04-14,552233,3622,credit,US,ProcessorBeta,approved
+TXN-00004,MERCH-002,Tokopulse Marketplace,5816,412404.13,IDR,2026-04-14,510510,2961,credit,ID,ProcessorAlpha,approved
+TXN-00005,MERCH-002,Tokopulse Marketplace,5999,538401.41,IDR,2026-04-13,549920,8711,debit,ID,ProcessorAlpha,approved
+TXN-00006,MERCH-003,Tokopulse Premium Subscription,5912,183.98,USD,2026-03-03,650400,3999,credit,US,ProcessorGamma,approved
+TXN-00007,MERCH-003,Tokopulse Premium Subscription,5411,366.08,USD,2026-03-08,411511,8387,debit,SG,ProcessorBeta,approved
+TXN-00008,MERCH-002,Tokopulse Marketplace,5732,324948.29,IDR,2026-04-26,549920,5140,debit,ID,ProcessorAlpha,approved
+TXN-00009,MERCH-003,Tokopulse Premium Subscription,5999,399.46,USD,2026-02-08,401234,7767,prepaid,SG,ProcessorGamma,declined
+TXN-00010,MERCH-001,Tokopulse Wallet Topup,5968,325.33,USD,2026-04-28,411111,6320,prepaid,NG,ProcessorGamma,approved
+TXN-00011,MERCH-003,Tokopulse Premium Subscription,5411,138515.56,IDR,2026-02-14,411111,4709,credit,ID,ProcessorAlpha,approved
+TXN-00012,MERCH-002,Tokopulse Marketplace,5732,74227.26,IDR,2026-03-29,601100,2243,debit,ID,ProcessorAlpha,approved
+TXN-00013,MERCH-003,Tokopulse Premium Subscription,5411,516801.45,IDR,2026-03-20,470100,2887,credit,ID,ProcessorGamma,approved
+TXN-00014,MERCH-002,Tokopulse Marketplace,5816,371447.61,IDR,2026-04-16,552233,2386,debit,ID,ProcessorAlpha,approved
+TXN-00015,MERCH-003,Tokopulse Premium Subscription,5411,476.78,USD,2026-04-29,401234,0884,debit,US,ProcessorGamma,declined
+TXN-00016,MERCH-004,Tokopulse Gaming,5411,91099.76,IDR,2026-04-22,601100,3420,debit,ID,ProcessorAlpha,approved
+TXN-00017,MERCH-002,Tokopulse Marketplace,5999,53643.07,IDR,2026-01-31,453210,5957,prepaid,ID,ProcessorBeta,approved
+TXN-00018,MERCH-001,Tokopulse Wallet Topup,5999,291528.58,IDR,2026-04-22,453210,5966,debit,ID,ProcessorAlpha,approved
+TXN-00019,MERCH-001,Tokopulse Wallet Topup,5912,242.80,USD,2026-03-11,453210,5613,prepaid,SG,ProcessorAlpha,approved
+TXN-00020,MERCH-003,Tokopulse Premium Subscription,5816,260.59,GBP,2026-02-26,650400,2401,prepaid,GB,ProcessorGamma,approved
+TXN-00021,MERCH-001,Tokopulse Wallet Topup,5816,526704.64,IDR,2026-03-05,411511,5827,credit,ID,ProcessorAlpha,approved
+TXN-00022,MERCH-003,Tokopulse Premium Subscription,5999,611460.77,IDR,2026-02-24,552233,3714,credit,ID,ProcessorGamma,approved
+TXN-00023,MERCH-004,Tokopulse Gaming,5816,494.85,USD,2026-03-07,549920,9914,debit,NG,ProcessorAlpha,approved
+TXN-00024,MERCH-004,Tokopulse Gaming,5411,74195.52,IDR,2026-02-13,470100,3348,debit,ID,ProcessorAlpha,approved
+TXN-00025,MERCH-001,Tokopulse Wallet Topup,5411,400.82,GBP,2026-02-10,650400,6365,prepaid,GB,ProcessorGamma,approved
+TXN-00026,MERCH-002,Tokopulse Marketplace,5912,595014.54,IDR,2026-03-14,650400,6485,debit,ID,ProcessorAlpha,declined
+TXN-00027,MERCH-004,Tokopulse Gaming,5816,139952.69,IDR,2026-02-16,470100,7624,prepaid,ID,ProcessorAlpha,approved
+TXN-00028,MERCH-002,Tokopulse Marketplace,5732,330.35,USD,2026-03-16,401234,0350,credit,US,ProcessorAlpha,approved
+TXN-00029,MERCH-001,Tokopulse Wallet Topup,5816,219.74,USD,2026-02-24,411511,4126,credit,NG,ProcessorGamma,approved
+TXN-00030,MERCH-003,Tokopulse Premium Subscription,5999,254602.14,IDR,2026-04-10,411511,5796,debit,ID,ProcessorAlpha,approved
+TXN-00031,MERCH-004,Tokopulse Gaming,5999,126599.74,IDR,2026-04-06,411511,3000,prepaid,ID,ProcessorAlpha,approved
+TXN-00032,MERCH-001,Tokopulse Wallet Topup,5816,363017.31,IDR,2026-02-15,424242,8492,prepaid,ID,ProcessorBeta,approved
+TXN-00033,MERCH-004,Tokopulse Gaming,5816,128.00,USD,2026-03-07,453210,7408,prepaid,SG,ProcessorAlpha,approved
+TXN-00034,MERCH-001,Tokopulse Wallet Topup,5411,465207.99,IDR,2026-04-05,453210,4541,debit,ID,ProcessorBeta,approved
+TXN-00035,MERCH-004,Tokopulse Gaming,5999,659253.58,IDR,2026-03-05,411511,3319,debit,ID,ProcessorGamma,approved
+TXN-00036,MERCH-002,Tokopulse Marketplace,5411,339956.79,IDR,2026-02-09,601100,3484,prepaid,ID,ProcessorBeta,approved
+TXN-00037,MERCH-003,Tokopulse Premium Subscription,5816,470.05,USD,2026-04-23,453210,2248,debit,NG,ProcessorBeta,approved
+TXN-00038,MERCH-002,Tokopulse Marketplace,5411,665425.67,IDR,2026-02-20,470100,2645,prepaid,ID,ProcessorGamma,approved
+TXN-00039,MERCH-004,Tokopulse Gaming,5411,324638.21,IDR,2026-03-17,411511,0319,debit,ID,ProcessorAlpha,approved
+TXN-00040,MERCH-004,Tokopulse Gaming,5816,319.79,BRL,2026-04-07,650400,1053,credit,BR,ProcessorBeta,approved
+TXN-00041,MERCH-002,Tokopulse Marketplace,5968,214861.54,IDR,2026-02-23,453210,6918,prepaid,ID,ProcessorAlpha,approved
+TXN-00042,MERCH-003,Tokopulse Premium Subscription,5999,690591.06,IDR,2026-04-14,601100,4572,credit,ID,ProcessorAlpha,approved
+TXN-00043,MERCH-002,Tokopulse Marketplace,5968,704687.04,IDR,2026-04-22,601100,9964,credit,ID,ProcessorAlpha,approved
+TXN-00044,MERCH-001,Tokopulse Wallet Topup,5912,23486.55,IDR,2026-04-11,510510,2117,credit,ID,ProcessorAlpha,approved
+TXN-00045,MERCH-002,Tokopulse Marketplace,5968,52029.09,IDR,2026-02-25,453210,8701,credit,ID,ProcessorGamma,approved
+TXN-00046,MERCH-003,Tokopulse Premium Subscription,5816,138.91,USD,2026-02-02,650400,0302,prepaid,SG,ProcessorGamma,approved
+TXN-00047,MERCH-002,Tokopulse Marketplace,5968,467.65,USD,2026-02-13,411511,8110,prepaid,SG,ProcessorBeta,approved
+TXN-00048,MERCH-004,Tokopulse Gaming,5816,737093.80,IDR,2026-03-15,411511,2289,debit,ID,ProcessorAlpha,approved
+TXN-00049,MERCH-003,Tokopulse Premium Subscription,5816,66981.27,IDR,2026-03-04,411111,6240,prepaid,ID,ProcessorAlpha,approved
+TXN-00050,MERCH-003,Tokopulse Premium Subscription,5968,48249.56,IDR,2026-02-23,401234,4312,debit,ID,ProcessorAlpha,approved
+TXN-00051,MERCH-003,Tokopulse Premium Subscription,5968,40318.34,IDR,2026-03-11,411511,5494,debit,ID,ProcessorAlpha,approved
+TXN-00052,MERCH-001,Tokopulse Wallet Topup,5732,497173.14,IDR,2026-03-03,650400,4328,credit,ID,ProcessorAlpha,approved
+TXN-00053,MERCH-002,Tokopulse Marketplace,5816,200.02,USD,2026-03-10,601100,9594,prepaid,US,ProcessorAlpha,approved
+TXN-00054,MERCH-002,Tokopulse Marketplace,5999,323.82,BRL,2026-03-13,552233,4655,prepaid,BR,ProcessorBeta,approved
+TXN-00055,MERCH-002,Tokopulse Marketplace,5732,509.32,BRL,2026-04-30,411111,8581,prepaid,BR,ProcessorGamma,approved
+TXN-00056,MERCH-001,Tokopulse Wallet Topup,5816,47.12,USD,2026-02-05,552233,1718,debit,US,ProcessorAlpha,approved
+TXN-00057,MERCH-004,Tokopulse Gaming,5816,475276.45,IDR,2026-04-28,411511,7486,credit,ID,ProcessorAlpha,approved
+TXN-00058,MERCH-001,Tokopulse Wallet Topup,5816,374.14,USD,2026-04-01,552233,4350,credit,SG,ProcessorAlpha,approved
+TXN-00059,MERCH-002,Tokopulse Marketplace,5912,249.50,USD,2026-03-20,545454,4707,credit,NG,ProcessorAlpha,approved
+TXN-00060,MERCH-002,Tokopulse Marketplace,5816,169.23,USD,2026-04-24,453210,9302,credit,US,ProcessorBeta,approved
+TXN-00061,MERCH-001,Tokopulse Wallet Topup,5732,212547.98,IDR,2026-04-27,650400,8021,debit,ID,ProcessorAlpha,approved
+TXN-00062,MERCH-003,Tokopulse Premium Subscription,5912,578869.77,IDR,2026-04-11,650400,7748,credit,ID,ProcessorAlpha,declined
+TXN-00063,MERCH-003,Tokopulse Premium Subscription,5732,726559.56,IDR,2026-03-29,650400,3452,credit,ID,ProcessorGamma,approved
+TXN-00064,MERCH-001,Tokopulse Wallet Topup,5999,134.60,USD,2026-03-18,424242,8335,debit,NG,ProcessorAlpha,approved
+TXN-00065,MERCH-001,Tokopulse Wallet Topup,5816,380947.65,IDR,2026-04-03,470100,8055,prepaid,ID,ProcessorAlpha,approved
+TXN-00066,MERCH-004,Tokopulse Gaming,5816,320893.18,IDR,2026-03-20,601100,0028,debit,ID,ProcessorAlpha,approved
+TXN-00067,MERCH-003,Tokopulse Premium Subscription,5816,539072.32,IDR,2026-03-09,601100,6392,prepaid,ID,ProcessorAlpha,approved
+TXN-00068,MERCH-001,Tokopulse Wallet Topup,5968,642877.62,IDR,2026-03-07,549920,4679,prepaid,ID,ProcessorAlpha,approved
+TXN-00069,MERCH-002,Tokopulse Marketplace,5912,390557.80,IDR,2026-02-24,545454,7008,credit,ID,ProcessorGamma,approved
+TXN-00070,MERCH-004,Tokopulse Gaming,5816,361.19,USD,2026-02-06,411511,2270,prepaid,SG,ProcessorGamma,approved
+TXN-00071,MERCH-003,Tokopulse Premium Subscription,5999,108573.82,IDR,2026-04-01,650400,4190,prepaid,ID,ProcessorAlpha,approved
+TXN-00072,MERCH-003,Tokopulse Premium Subscription,5968,153.91,GBP,2026-04-12,601100,2648,credit,GB,ProcessorBeta,approved
+TXN-00073,MERCH-002,Tokopulse Marketplace,5999,113.91,USD,2026-03-14,411511,2287,prepaid,SG,ProcessorGamma,approved
+TXN-00074,MERCH-002,Tokopulse Marketplace,5816,266337.10,IDR,2026-02-11,545454,9332,credit,ID,ProcessorAlpha,approved
+TXN-00075,MERCH-001,Tokopulse Wallet Topup,5411,319204.43,IDR,2026-04-08,470100,1016,debit,ID,ProcessorAlpha,approved
+TXN-00076,MERCH-003,Tokopulse Premium Subscription,5816,519763.59,IDR,2026-04-08,401234,3538,credit,ID,ProcessorBeta,approved
+TXN-00077,MERCH-003,Tokopulse Premium Subscription,5411,489656.91,IDR,2026-03-27,545454,0357,credit,ID,ProcessorGamma,approved
+TXN-00078,MERCH-001,Tokopulse Wallet Topup,5732,775.26,BRL,2026-04-03,601100,8648,debit,BR,ProcessorAlpha,approved
+TXN-00079,MERCH-004,Tokopulse Gaming,5816,128468.11,IDR,2026-04-07,545454,7492,credit,ID,ProcessorGamma,approved
+TXN-00080,MERCH-001,Tokopulse Wallet Topup,5816,433495.98,IDR,2026-02-04,411111,2096,prepaid,ID,ProcessorBeta,approved
+TXN-00081,MERCH-003,Tokopulse Premium Subscription,5912,350.80,USD,2026-02-14,411511,9550,credit,US,ProcessorAlpha,approved
+TXN-00082,MERCH-004,Tokopulse Gaming,5999,15846.74,IDR,2026-04-09,510510,5183,prepaid,ID,ProcessorAlpha,approved
+TXN-00083,MERCH-002,Tokopulse Marketplace,5968,275.77,USD,2026-02-03,650400,5036,credit,SG,ProcessorGamma,approved
+TXN-00084,MERCH-001,Tokopulse Wallet Topup,5912,45.14,USD,2026-03-01,545454,3715,debit,SG,ProcessorBeta,approved
+TXN-00085,MERCH-001,Tokopulse Wallet Topup,5912,281305.12,IDR,2026-03-22,470100,8271,credit,ID,ProcessorAlpha,approved
+TXN-00086,MERCH-002,Tokopulse Marketplace,5968,577904.97,IDR,2026-02-24,650400,4832,credit,ID,ProcessorAlpha,approved
+TXN-00087,MERCH-004,Tokopulse Gaming,5816,371513.76,IDR,2026-04-26,401234,6446,credit,ID,ProcessorAlpha,approved
+TXN-00088,MERCH-002,Tokopulse Marketplace,5816,210.62,USD,2026-05-01,411111,5147,prepaid,US,ProcessorAlpha,approved
+TXN-00089,MERCH-001,Tokopulse Wallet Topup,5411,155152.39,IDR,2026-04-24,453210,0522,debit,ID,ProcessorGamma,approved
+TXN-00090,MERCH-004,Tokopulse Gaming,5912,139406.79,IDR,2026-01-31,549920,6884,credit,ID,ProcessorAlpha,approved
+TXN-00091,MERCH-002,Tokopulse Marketplace,5968,619175.87,IDR,2026-03-27,601100,3206,debit,ID,ProcessorAlpha,approved
+TXN-00092,MERCH-004,Tokopulse Gaming,5411,556930.06,IDR,2026-04-01,545454,6631,credit,ID,ProcessorAlpha,approved
+TXN-00093,MERCH-004,Tokopulse Gaming,5816,605453.49,IDR,2026-02-07,411111,9922,debit,ID,ProcessorAlpha,approved
+TXN-00094,MERCH-003,Tokopulse Premium Subscription,5999,47035.39,IDR,2026-04-29,510510,0061,prepaid,ID,ProcessorAlpha,approved
+TXN-00095,MERCH-001,Tokopulse Wallet Topup,5816,364263.96,IDR,2026-03-31,411111,4113,debit,ID,ProcessorGamma,approved
+TXN-00096,MERCH-004,Tokopulse Gaming,5816,9.31,USD,2026-03-10,424242,9949,credit,SG,ProcessorGamma,approved
+TXN-00097,MERCH-003,Tokopulse Premium Subscription,5411,591117.28,IDR,2026-04-17,549920,2620,credit,ID,ProcessorAlpha,approved
+TXN-00098,MERCH-004,Tokopulse Gaming,5816,243.44,GBP,2026-04-10,453210,1723,credit,GB,ProcessorAlpha,declined
+TXN-00099,MERCH-003,Tokopulse Premium Subscription,5816,85870.60,IDR,2026-04-04,401234,2837,credit,ID,ProcessorGamma,declined
+TXN-00100,MERCH-002,Tokopulse Marketplace,5999,670077.98,IDR,2026-03-02,601100,1985,debit,ID,ProcessorBeta,approved
+TXN-00101,MERCH-003,Tokopulse Premium Subscription,5968,189.62,USD,2026-03-05,510510,4019,credit,US,ProcessorAlpha,approved
+TXN-00102,MERCH-002,Tokopulse Marketplace,5816,166.54,USD,2026-03-22,510510,8623,credit,US,ProcessorAlpha,approved
+TXN-00103,MERCH-001,Tokopulse Wallet Topup,5816,90214.33,IDR,2026-04-01,552233,7344,debit,ID,ProcessorGamma,approved
+TXN-00104,MERCH-001,Tokopulse Wallet Topup,5816,52037.50,IDR,2026-04-17,510510,1230,debit,ID,ProcessorGamma,approved
+TXN-00105,MERCH-002,Tokopulse Marketplace,5968,388.62,USD,2026-04-26,650400,9767,prepaid,US,ProcessorGamma,approved
+TXN-00106,MERCH-003,Tokopulse Premium Subscription,5411,264912.17,IDR,2026-02-05,545454,9820,prepaid,ID,ProcessorAlpha,approved
+TXN-00107,MERCH-002,Tokopulse Marketplace,5912,513565.01,IDR,2026-02-23,411111,0515,debit,ID,ProcessorBeta,approved
+TXN-00108,MERCH-004,Tokopulse Gaming,5816,599945.25,IDR,2026-04-25,453210,1493,prepaid,ID,ProcessorBeta,approved
+TXN-00109,MERCH-002,Tokopulse Marketplace,5968,339.64,BRL,2026-03-08,601100,0841,debit,BR,ProcessorBeta,approved
+TXN-00110,MERCH-003,Tokopulse Premium Subscription,5816,650221.08,IDR,2026-03-18,601100,6635,credit,ID,ProcessorBeta,approved
+TXN-00111,MERCH-001,Tokopulse Wallet Topup,5912,98451.38,IDR,2026-02-11,601100,7551,credit,ID,ProcessorAlpha,approved
+TXN-00112,MERCH-002,Tokopulse Marketplace,5999,119735.15,IDR,2026-03-22,411111,6075,prepaid,ID,ProcessorAlpha,approved
+TXN-00113,MERCH-002,Tokopulse Marketplace,5968,133933.82,IDR,2026-02-21,424242,8036,credit,ID,ProcessorGamma,approved
+TXN-00114,MERCH-003,Tokopulse Premium Subscription,5732,246176.59,IDR,2026-04-18,424242,2625,prepaid,ID,ProcessorGamma,approved
+TXN-00115,MERCH-002,Tokopulse Marketplace,5999,637068.26,IDR,2026-04-01,401234,6549,prepaid,ID,ProcessorAlpha,approved
+TXN-00116,MERCH-002,Tokopulse Marketplace,5816,124858.35,IDR,2026-02-24,601100,0624,prepaid,ID,ProcessorAlpha,approved
+TXN-00117,MERCH-003,Tokopulse Premium Subscription,5999,349964.12,IDR,2026-04-21,453210,5049,prepaid,ID,ProcessorGamma,approved
+TXN-00118,MERCH-002,Tokopulse Marketplace,5411,343390.21,IDR,2026-03-28,601100,8019,debit,ID,ProcessorAlpha,approved
+TXN-00119,MERCH-002,Tokopulse Marketplace,5999,391.09,USD,2026-03-30,650400,6559,credit,NG,ProcessorGamma,approved
+TXN-00120,MERCH-001,Tokopulse Wallet Topup,5912,283519.25,IDR,2026-03-28,424242,0666,prepaid,ID,ProcessorAlpha,approved
+TXN-00121,MERCH-002,Tokopulse Marketplace,5411,389.93,USD,2026-04-06,453210,6190,prepaid,NG,ProcessorAlpha,approved
+TXN-00122,MERCH-002,Tokopulse Marketplace,5999,553082.03,IDR,2026-02-14,411111,8058,debit,ID,ProcessorAlpha,declined
+TXN-00123,MERCH-002,Tokopulse Marketplace,5816,71.10,BRL,2026-03-16,552233,5305,prepaid,BR,ProcessorBeta,approved
+TXN-00124,MERCH-003,Tokopulse Premium Subscription,5968,384130.18,IDR,2026-04-02,650400,8290,credit,ID,ProcessorAlpha,approved
+TXN-00125,MERCH-003,Tokopulse Premium Subscription,5816,148840.84,IDR,2026-02-20,549920,5371,debit,ID,ProcessorBeta,approved
+TXN-00126,MERCH-002,Tokopulse Marketplace,5999,50700.11,IDR,2026-03-18,510510,8543,prepaid,ID,ProcessorGamma,approved
+TXN-00127,MERCH-001,Tokopulse Wallet Topup,5411,370.27,USD,2026-03-19,510510,9459,credit,SG,ProcessorAlpha,declined
+TXN-00128,MERCH-003,Tokopulse Premium Subscription,5816,223.93,USD,2026-02-22,549920,4855,prepaid,NG,ProcessorBeta,declined
+TXN-00129,MERCH-003,Tokopulse Premium Subscription,5999,464.59,USD,2026-03-12,510510,3631,credit,US,ProcessorBeta,approved
+TXN-00130,MERCH-003,Tokopulse Premium Subscription,5912,211.76,USD,2026-03-18,401234,3723,prepaid,US,ProcessorGamma,approved
+TXN-00131,MERCH-001,Tokopulse Wallet Topup,5816,431834.06,IDR,2026-03-10,411111,3674,debit,ID,ProcessorAlpha,approved
+TXN-00132,MERCH-003,Tokopulse Premium Subscription,5816,284182.38,IDR,2026-04-01,401234,3990,prepaid,ID,ProcessorAlpha,approved
+TXN-00133,MERCH-002,Tokopulse Marketplace,5816,484084.42,IDR,2026-04-26,650400,4329,credit,ID,ProcessorGamma,approved
+TXN-00134,MERCH-001,Tokopulse Wallet Topup,5411,299.39,USD,2026-04-15,552233,8074,credit,SG,ProcessorAlpha,declined
+TXN-00135,MERCH-002,Tokopulse Marketplace,5816,405672.64,IDR,2026-03-23,411111,1718,credit,ID,ProcessorAlpha,approved
+TXN-00136,MERCH-002,Tokopulse Marketplace,5816,395919.70,IDR,2026-04-23,424242,2861,prepaid,ID,ProcessorAlpha,approved
+TXN-00137,MERCH-003,Tokopulse Premium Subscription,5816,745635.09,IDR,2026-04-02,453210,7154,prepaid,ID,ProcessorBeta,approved
+TXN-00138,MERCH-004,Tokopulse Gaming,5912,91.82,USD,2026-02-13,453210,2019,debit,NG,ProcessorAlpha,approved
+TXN-00139,MERCH-003,Tokopulse Premium Subscription,5968,482361.46,IDR,2026-04-27,470100,8572,debit,ID,ProcessorAlpha,approved
+TXN-00140,MERCH-003,Tokopulse Premium Subscription,5816,661833.22,IDR,2026-02-01,552233,3322,credit,ID,ProcessorAlpha,approved
+TXN-00141,MERCH-003,Tokopulse Premium Subscription,5411,456904.73,IDR,2026-03-20,545454,8787,debit,ID,ProcessorGamma,approved
+TXN-00142,MERCH-004,Tokopulse Gaming,5816,688.87,BRL,2026-03-27,411511,5042,credit,BR,ProcessorGamma,approved
+TXN-00143,MERCH-004,Tokopulse Gaming,5816,284.78,USD,2026-02-21,401234,1747,prepaid,US,ProcessorAlpha,approved
+TXN-00144,MERCH-002,Tokopulse Marketplace,5816,37689.35,IDR,2026-02-17,549920,1111,prepaid,ID,ProcessorBeta,approved
+TXN-00145,MERCH-001,Tokopulse Wallet Topup,5411,103.66,USD,2026-04-09,453210,6288,credit,US,ProcessorGamma,approved
+TXN-00146,MERCH-002,Tokopulse Marketplace,5816,39887.56,IDR,2026-04-22,545454,4708,debit,ID,ProcessorAlpha,approved
+TXN-00147,MERCH-001,Tokopulse Wallet Topup,5816,231427.66,IDR,2026-03-15,424242,4205,debit,ID,ProcessorAlpha,approved
+TXN-00148,MERCH-001,Tokopulse Wallet Topup,5411,455.62,USD,2026-04-18,470100,0507,debit,NG,ProcessorAlpha,approved
+TXN-00149,MERCH-001,Tokopulse Wallet Topup,5816,176.66,USD,2026-05-01,601100,1489,prepaid,SG,ProcessorAlpha,approved
+TXN-00150,MERCH-003,Tokopulse Premium Subscription,5816,399813.47,IDR,2026-03-08,424242,0071,debit,ID,ProcessorGamma,declined
+TXN-00151,MERCH-004,Tokopulse Gaming,5816,483.74,USD,2026-04-16,453210,4269,prepaid,SG,ProcessorAlpha,approved
+TXN-00152,MERCH-002,Tokopulse Marketplace,5816,381261.97,IDR,2026-02-14,510510,8032,prepaid,ID,ProcessorGamma,approved
+TXN-00153,MERCH-001,Tokopulse Wallet Topup,5411,84934.13,IDR,2026-03-22,552233,6916,prepaid,ID,ProcessorGamma,approved
+TXN-00154,MERCH-001,Tokopulse Wallet Topup,5968,208448.63,IDR,2026-04-10,549920,3826,debit,ID,ProcessorAlpha,approved
+TXN-00155,MERCH-002,Tokopulse Marketplace,5999,324.92,USD,2026-03-16,411511,7377,prepaid,US,ProcessorBeta,approved
+TXN-00156,MERCH-003,Tokopulse Premium Subscription,5912,521460.10,IDR,2026-03-04,424242,7569,prepaid,ID,ProcessorBeta,approved
+TXN-00157,MERCH-002,Tokopulse Marketplace,5968,236608.16,IDR,2026-05-01,411511,2555,credit,ID,ProcessorGamma,approved
+TXN-00158,MERCH-003,Tokopulse Premium Subscription,5411,84.66,USD,2026-03-13,401234,1667,credit,SG,ProcessorGamma,approved
+TXN-00159,MERCH-001,Tokopulse Wallet Topup,5816,738117.10,IDR,2026-03-10,545454,3214,credit,ID,ProcessorBeta,approved
+TXN-00160,MERCH-001,Tokopulse Wallet Topup,5411,355978.52,IDR,2026-02-01,510510,3644,prepaid,ID,ProcessorAlpha,approved
+TXN-00161,MERCH-003,Tokopulse Premium Subscription,5816,204051.97,IDR,2026-03-23,650400,7045,prepaid,ID,ProcessorAlpha,approved
+TXN-00162,MERCH-004,Tokopulse Gaming,5999,426.96,GBP,2026-04-27,545454,7086,debit,GB,ProcessorAlpha,approved
+TXN-00163,MERCH-003,Tokopulse Premium Subscription,5816,717.90,BRL,2026-03-03,552233,2563,debit,BR,ProcessorGamma,approved
+TXN-00164,MERCH-004,Tokopulse Gaming,5816,471853.05,IDR,2026-03-24,650400,2999,prepaid,ID,ProcessorAlpha,approved
+TXN-00165,MERCH-003,Tokopulse Premium Subscription,5732,682521.09,IDR,2026-02-13,411111,2635,prepaid,ID,ProcessorAlpha,approved
+TXN-00166,MERCH-002,Tokopulse Marketplace,5816,637662.23,IDR,2026-03-30,411511,8391,credit,ID,ProcessorAlpha,approved
+TXN-00167,MERCH-003,Tokopulse Premium Subscription,5912,560450.80,IDR,2026-03-30,411511,6430,prepaid,ID,ProcessorAlpha,approved
+TXN-00168,MERCH-001,Tokopulse Wallet Topup,5411,320.60,USD,2026-03-04,470100,0218,credit,US,ProcessorAlpha,approved
+TXN-00169,MERCH-004,Tokopulse Gaming,5411,292.19,USD,2026-02-13,601100,8635,credit,US,ProcessorAlpha,approved
+TXN-00170,MERCH-004,Tokopulse Gaming,5816,110034.90,IDR,2026-02-08,650400,7686,prepaid,ID,ProcessorGamma,approved
+TXN-00171,MERCH-002,Tokopulse Marketplace,5912,359054.15,IDR,2026-03-09,424242,7690,debit,ID,ProcessorGamma,approved
+TXN-00172,MERCH-002,Tokopulse Marketplace,5411,556.21,BRL,2026-03-26,510510,4607,debit,BR,ProcessorBeta,approved
+TXN-00173,MERCH-002,Tokopulse Marketplace,5411,367469.29,IDR,2026-03-26,552233,5938,credit,ID,ProcessorBeta,approved
+TXN-00174,MERCH-003,Tokopulse Premium Subscription,5816,623506.41,IDR,2026-03-13,601100,5654,prepaid,ID,ProcessorGamma,approved
+TXN-00175,MERCH-001,Tokopulse Wallet Topup,5816,714549.90,IDR,2026-04-24,552233,9477,credit,ID,ProcessorAlpha,approved
+TXN-00176,MERCH-002,Tokopulse Marketplace,5912,176.49,USD,2026-02-19,424242,8757,credit,NG,ProcessorAlpha,approved
+TXN-00177,MERCH-001,Tokopulse Wallet Topup,5968,102.70,USD,2026-04-29,552233,7185,prepaid,SG,ProcessorAlpha,approved
+TXN-00178,MERCH-001,Tokopulse Wallet Topup,5968,322993.04,IDR,2026-02-17,411511,7935,debit,ID,ProcessorAlpha,approved
+TXN-00179,MERCH-002,Tokopulse Marketplace,5968,251.60,USD,2026-04-10,470100,2627,debit,SG,ProcessorBeta,approved
+TXN-00180,MERCH-004,Tokopulse Gaming,5732,334.32,USD,2026-03-31,470100,1235,credit,US,ProcessorAlpha,approved
+TXN-00181,MERCH-003,Tokopulse Premium Subscription,5816,15.18,GBP,2026-02-05,552233,5414,credit,GB,ProcessorBeta,declined
+TXN-00182,MERCH-004,Tokopulse Gaming,5816,21.78,USD,2026-03-25,650400,5999,debit,NG,ProcessorBeta,approved
+TXN-00183,MERCH-004,Tokopulse Gaming,5816,145.65,USD,2026-03-15,411511,4737,debit,SG,ProcessorAlpha,approved
+TXN-00184,MERCH-003,Tokopulse Premium Subscription,5411,385255.64,IDR,2026-03-06,650400,3334,prepaid,ID,ProcessorGamma,approved
+TXN-00185,MERCH-004,Tokopulse Gaming,5816,248064.09,IDR,2026-03-10,453210,1434,credit,ID,ProcessorAlpha,declined
+TXN-00186,MERCH-004,Tokopulse Gaming,5411,274.97,USD,2026-02-06,470100,0760,credit,SG,ProcessorAlpha,approved
+TXN-00187,MERCH-004,Tokopulse Gaming,5816,395.57,USD,2026-04-10,401234,9769,prepaid,NG,ProcessorBeta,approved
+TXN-00188,MERCH-001,Tokopulse Wallet Topup,5912,474579.08,IDR,2026-02-22,545454,0605,debit,ID,ProcessorAlpha,approved
+TXN-00189,MERCH-001,Tokopulse Wallet Topup,5411,655862.72,IDR,2026-02-17,552233,4227,debit,ID,ProcessorGamma,approved
+TXN-00190,MERCH-002,Tokopulse Marketplace,5411,29988.16,IDR,2026-04-13,601100,0894,debit,ID,ProcessorBeta,declined
+TXN-00191,MERCH-001,Tokopulse Wallet Topup,5912,289.78,USD,2026-03-23,453210,6342,prepaid,NG,ProcessorAlpha,approved
+TXN-00192,MERCH-002,Tokopulse Marketplace,5912,276.66,USD,2026-02-10,650400,2486,prepaid,NG,ProcessorBeta,approved
+TXN-00193,MERCH-001,Tokopulse Wallet Topup,5816,517564.39,IDR,2026-02-15,601100,3575,credit,ID,ProcessorGamma,approved
+TXN-00194,MERCH-002,Tokopulse Marketplace,5968,543723.01,IDR,2026-03-03,650400,0821,debit,ID,ProcessorAlpha,approved
+TXN-00195,MERCH-002,Tokopulse Marketplace,5816,150.11,USD,2026-04-12,470100,4162,credit,NG,ProcessorBeta,approved
+TXN-00196,MERCH-001,Tokopulse Wallet Topup,5816,664248.96,IDR,2026-04-28,411111,5096,debit,ID,ProcessorGamma,approved
+TXN-00197,MERCH-002,Tokopulse Marketplace,5816,161.56,USD,2026-04-14,650400,2727,credit,US,ProcessorBeta,approved
+TXN-00198,MERCH-001,Tokopulse Wallet Topup,5816,316.70,GBP,2026-03-25,549920,7417,debit,GB,ProcessorAlpha,approved
+TXN-00199,MERCH-003,Tokopulse Premium Subscription,5816,472057.79,IDR,2026-04-24,510510,5440,prepaid,ID,ProcessorBeta,approved
+TXN-00200,MERCH-001,Tokopulse Wallet Topup,5968,294.41,USD,2026-03-03,424242,9859,credit,US,ProcessorAlpha,approved
+TXN-00201,MERCH-004,Tokopulse Gaming,5816,164.16,GBP,2026-03-06,510510,0692,debit,GB,ProcessorAlpha,approved
+TXN-00202,MERCH-002,Tokopulse Marketplace,5968,731897.19,IDR,2026-04-11,401234,5682,prepaid,ID,ProcessorBeta,approved
+TXN-00203,MERCH-001,Tokopulse Wallet Topup,5732,399.71,USD,2026-02-25,411511,3834,debit,SG,ProcessorGamma,approved
+TXN-00204,MERCH-001,Tokopulse Wallet Topup,5912,535629.41,IDR,2026-03-04,552233,6307,debit,ID,ProcessorBeta,approved
+TXN-00205,MERCH-001,Tokopulse Wallet Topup,5816,186156.83,IDR,2026-04-15,411511,8550,debit,ID,ProcessorAlpha,approved
+TXN-00206,MERCH-004,Tokopulse Gaming,5816,98.63,USD,2026-02-24,411511,4748,debit,US,ProcessorAlpha,approved
+TXN-00207,MERCH-003,Tokopulse Premium Subscription,5999,429.19,USD,2026-03-03,601100,6128,credit,NG,ProcessorAlpha,declined
+TXN-00208,MERCH-003,Tokopulse Premium Subscription,5816,129773.89,IDR,2026-04-17,552233,9947,credit,ID,ProcessorAlpha,approved
+TXN-00209,MERCH-001,Tokopulse Wallet Topup,5999,372441.91,IDR,2026-04-13,411111,4584,debit,ID,ProcessorAlpha,approved
+TXN-00210,MERCH-001,Tokopulse Wallet Topup,5999,410.32,USD,2026-02-16,650400,3293,credit,NG,ProcessorAlpha,approved
+TXN-00211,MERCH-004,Tokopulse Gaming,5816,40585.40,IDR,2026-03-19,453210,1051,prepaid,ID,ProcessorGamma,approved
+TXN-00212,MERCH-004,Tokopulse Gaming,5816,220.61,BRL,2026-04-13,453210,8298,debit,BR,ProcessorAlpha,approved
+TXN-00213,MERCH-002,Tokopulse Marketplace,5411,724839.84,IDR,2026-02-28,650400,5767,credit,ID,ProcessorAlpha,declined
+TXN-00214,MERCH-001,Tokopulse Wallet Topup,5732,536562.08,IDR,2026-04-23,411111,1655,credit,ID,ProcessorGamma,approved
+TXN-00215,MERCH-003,Tokopulse Premium Subscription,5968,448492.47,IDR,2026-03-28,411111,5307,debit,ID,ProcessorGamma,approved
+TXN-00216,MERCH-003,Tokopulse Premium Subscription,5411,368765.16,IDR,2026-02-21,601100,0206,debit,ID,ProcessorAlpha,approved
+TXN-00217,MERCH-002,Tokopulse Marketplace,5816,72173.07,IDR,2026-04-20,411111,2289,debit,ID,ProcessorGamma,approved
+TXN-00218,MERCH-001,Tokopulse Wallet Topup,5816,347465.38,IDR,2026-03-15,601100,1894,prepaid,ID,ProcessorAlpha,approved
+TXN-00219,MERCH-003,Tokopulse Premium Subscription,5816,556006.19,IDR,2026-02-23,424242,2370,debit,ID,ProcessorBeta,approved
+TXN-00220,MERCH-002,Tokopulse Marketplace,5912,196366.37,IDR,2026-02-03,510510,5480,credit,ID,ProcessorAlpha,approved
+TXN-00221,MERCH-003,Tokopulse Premium Subscription,5411,350295.72,IDR,2026-04-02,650400,0931,prepaid,ID,ProcessorAlpha,declined
+TXN-00222,MERCH-002,Tokopulse Marketplace,5968,64.00,USD,2026-02-25,411511,4284,credit,SG,ProcessorGamma,approved
+TXN-00223,MERCH-002,Tokopulse Marketplace,5968,320492.46,IDR,2026-02-20,453210,4809,credit,ID,ProcessorAlpha,approved
+TXN-00224,MERCH-001,Tokopulse Wallet Topup,5411,257.84,USD,2026-03-28,650400,8627,debit,SG,ProcessorAlpha,approved
+TXN-00225,MERCH-002,Tokopulse Marketplace,5816,685306.31,IDR,2026-02-27,549920,2951,prepaid,ID,ProcessorAlpha,approved
+TXN-00226,MERCH-002,Tokopulse Marketplace,5816,456479.20,IDR,2026-02-11,470100,4487,credit,ID,ProcessorGamma,approved
+TXN-00227,MERCH-002,Tokopulse Marketplace,5816,293.55,USD,2026-02-25,424242,8512,debit,US,ProcessorAlpha,approved
+TXN-00228,MERCH-001,Tokopulse Wallet Topup,5411,222091.96,IDR,2026-04-22,411511,0253,debit,ID,ProcessorGamma,approved
+TXN-00229,MERCH-004,Tokopulse Gaming,5968,127.93,GBP,2026-04-13,424242,2678,prepaid,GB,ProcessorGamma,approved
+TXN-00230,MERCH-003,Tokopulse Premium Subscription,5816,181.30,USD,2026-03-29,401234,5844,prepaid,US,ProcessorGamma,approved
+TXN-00231,MERCH-002,Tokopulse Marketplace,5411,290.27,USD,2026-02-07,549920,8106,debit,NG,ProcessorAlpha,approved
+TXN-00232,MERCH-001,Tokopulse Wallet Topup,5816,15.24,USD,2026-02-11,411511,1682,debit,SG,ProcessorAlpha,approved
+TXN-00233,MERCH-003,Tokopulse Premium Subscription,5816,85906.47,IDR,2026-04-30,411511,9820,prepaid,ID,ProcessorBeta,approved
+TXN-00234,MERCH-004,Tokopulse Gaming,5912,90605.46,IDR,2026-02-12,411511,2016,debit,ID,ProcessorBeta,approved
+TXN-00235,MERCH-004,Tokopulse Gaming,5968,59.47,USD,2026-02-15,401234,9696,credit,SG,ProcessorAlpha,approved
+TXN-00236,MERCH-002,Tokopulse Marketplace,5999,233.72,GBP,2026-03-22,424242,6369,prepaid,GB,ProcessorAlpha,approved
+TXN-00237,MERCH-004,Tokopulse Gaming,5999,22.92,USD,2026-02-06,401234,3938,debit,US,ProcessorGamma,approved
+TXN-00238,MERCH-004,Tokopulse Gaming,5411,638008.55,IDR,2026-02-06,401234,5790,credit,ID,ProcessorAlpha,approved
+TXN-00239,MERCH-004,Tokopulse Gaming,5816,185.39,USD,2026-04-08,552233,3289,prepaid,US,ProcessorAlpha,approved
+TXN-00240,MERCH-001,Tokopulse Wallet Topup,5912,727726.69,IDR,2026-03-30,545454,0659,credit,ID,ProcessorBeta,approved
+TXN-00241,MERCH-003,Tokopulse Premium Subscription,5968,315.98,USD,2026-02-04,552233,8524,credit,US,ProcessorBeta,approved
+TXN-00242,MERCH-004,Tokopulse Gaming,5968,98087.22,IDR,2026-03-16,545454,9736,prepaid,ID,ProcessorBeta,approved
+TXN-00243,MERCH-003,Tokopulse Premium Subscription,5999,407366.15,IDR,2026-02-18,453210,4810,debit,ID,ProcessorAlpha,approved
+TXN-00244,MERCH-003,Tokopulse Premium Subscription,5816,559196.63,IDR,2026-03-08,510510,9341,credit,ID,ProcessorGamma,approved
+TXN-00245,MERCH-004,Tokopulse Gaming,5411,233.14,USD,2026-04-11,545454,5087,credit,SG,ProcessorAlpha,approved
+TXN-00246,MERCH-002,Tokopulse Marketplace,5816,391650.38,IDR,2026-03-21,549920,5777,credit,ID,ProcessorGamma,approved
+TXN-00247,MERCH-002,Tokopulse Marketplace,5411,248.25,USD,2026-03-08,549920,0932,credit,SG,ProcessorGamma,approved
+TXN-00248,MERCH-002,Tokopulse Marketplace,5999,655385.60,IDR,2026-03-28,411511,7207,debit,ID,ProcessorBeta,approved
+TXN-00249,MERCH-001,Tokopulse Wallet Topup,5816,321312.56,IDR,2026-04-26,411511,4534,prepaid,ID,ProcessorAlpha,approved
+TXN-00250,MERCH-001,Tokopulse Wallet Topup,5732,138.00,USD,2026-04-21,470100,2085,debit,NG,ProcessorBeta,approved
+TXN-00251,MERCH-001,Tokopulse Wallet Topup,5999,445588.40,IDR,2026-04-04,411111,2451,debit,ID,ProcessorAlpha,declined
+TXN-00252,MERCH-003,Tokopulse Premium Subscription,5816,192.88,USD,2026-03-29,401234,5777,debit,US,ProcessorBeta,approved
+TXN-00253,MERCH-003,Tokopulse Premium Subscription,5999,299.73,USD,2026-04-23,601100,8184,debit,SG,ProcessorAlpha,approved
+TXN-00254,MERCH-004,Tokopulse Gaming,5999,238464.05,IDR,2026-02-18,510510,3800,credit,ID,ProcessorAlpha,approved
+TXN-00255,MERCH-003,Tokopulse Premium Subscription,5968,479.59,USD,2026-02-26,549920,0175,credit,US,ProcessorGamma,approved
+TXN-00256,MERCH-001,Tokopulse Wallet Topup,5732,153.41,USD,2026-04-09,510510,7162,prepaid,US,ProcessorGamma,approved
+TXN-00257,MERCH-004,Tokopulse Gaming,5411,44923.27,IDR,2026-04-27,601100,1118,prepaid,ID,ProcessorAlpha,declined
+TXN-00258,MERCH-002,Tokopulse Marketplace,5411,383167.98,IDR,2026-04-24,453210,3083,debit,ID,ProcessorBeta,approved
+TXN-00259,MERCH-004,Tokopulse Gaming,5999,675877.54,IDR,2026-04-16,601100,1511,credit,ID,ProcessorAlpha,approved
+TXN-00260,MERCH-003,Tokopulse Premium Subscription,5816,622131.54,IDR,2026-04-06,549920,4831,prepaid,ID,ProcessorAlpha,approved
+TXN-00261,MERCH-003,Tokopulse Premium Subscription,5816,400181.97,IDR,2026-04-06,411511,6754,credit,ID,ProcessorAlpha,approved
+TXN-00262,MERCH-001,Tokopulse Wallet Topup,5999,57.78,USD,2026-04-13,552233,0693,prepaid,US,ProcessorGamma,approved
+TXN-00263,MERCH-004,Tokopulse Gaming,5968,537318.80,IDR,2026-04-11,411111,1613,prepaid,ID,ProcessorAlpha,approved
+TXN-00264,MERCH-001,Tokopulse Wallet Topup,5816,143767.74,IDR,2026-04-11,552233,8707,prepaid,ID,ProcessorBeta,approved
+TXN-00265,MERCH-002,Tokopulse Marketplace,5912,457280.27,IDR,2026-02-18,401234,1747,credit,ID,ProcessorAlpha,approved
+TXN-00266,MERCH-001,Tokopulse Wallet Topup,5999,375463.60,IDR,2026-03-31,453210,1017,prepaid,ID,ProcessorBeta,approved
+TXN-00267,MERCH-001,Tokopulse Wallet Topup,5999,164.80,USD,2026-03-02,552233,4368,prepaid,NG,ProcessorAlpha,approved
+TXN-00268,MERCH-001,Tokopulse Wallet Topup,5411,155864.81,IDR,2026-04-20,401234,6487,prepaid,ID,ProcessorAlpha,approved
+TXN-00269,MERCH-001,Tokopulse Wallet Topup,5999,190145.04,IDR,2026-02-28,650400,2843,debit,ID,ProcessorAlpha,declined
+TXN-00270,MERCH-001,Tokopulse Wallet Topup,5912,457876.11,IDR,2026-04-04,650400,6386,prepaid,ID,ProcessorGamma,approved
+TXN-00271,MERCH-002,Tokopulse Marketplace,5411,658351.21,IDR,2026-04-03,601100,1433,credit,ID,ProcessorAlpha,approved
+TXN-00272,MERCH-002,Tokopulse Marketplace,5816,20609.25,IDR,2026-03-09,549920,5488,prepaid,ID,ProcessorAlpha,approved
+TXN-00273,MERCH-004,Tokopulse Gaming,5816,721503.02,IDR,2026-03-26,549920,4013,debit,ID,ProcessorGamma,approved
+TXN-00274,MERCH-002,Tokopulse Marketplace,5411,189323.40,IDR,2026-02-04,650400,2554,credit,ID,ProcessorAlpha,approved
+TXN-00275,MERCH-002,Tokopulse Marketplace,5968,415476.68,IDR,2026-02-16,453210,3935,credit,ID,ProcessorBeta,approved
+TXN-00276,MERCH-003,Tokopulse Premium Subscription,5411,292016.80,IDR,2026-04-15,549920,8271,credit,ID,ProcessorAlpha,declined
+TXN-00277,MERCH-002,Tokopulse Marketplace,5816,471.33,GBP,2026-03-05,650400,6029,prepaid,GB,ProcessorBeta,approved
+TXN-00278,MERCH-002,Tokopulse Marketplace,5732,110.21,USD,2026-02-15,601100,4430,prepaid,US,ProcessorBeta,approved
+TXN-00279,MERCH-004,Tokopulse Gaming,5999,76.81,GBP,2026-02-01,411111,2900,credit,GB,ProcessorAlpha,approved
+TXN-00280,MERCH-003,Tokopulse Premium Subscription,5816,38.70,GBP,2026-03-18,545454,3159,credit,GB,ProcessorGamma,approved
+TXN-00281,MERCH-003,Tokopulse Premium Subscription,5968,107707.44,IDR,2026-03-23,453210,7609,prepaid,ID,ProcessorAlpha,approved
+TXN-00282,MERCH-002,Tokopulse Marketplace,5816,284437.65,IDR,2026-04-25,510510,0413,prepaid,ID,ProcessorBeta,approved
+TXN-00283,MERCH-004,Tokopulse Gaming,5411,680943.51,IDR,2026-02-12,545454,9976,prepaid,ID,ProcessorAlpha,approved
+TXN-00284,MERCH-002,Tokopulse Marketplace,5816,205.31,GBP,2026-04-18,470100,4965,credit,GB,ProcessorAlpha,approved
+TXN-00285,MERCH-004,Tokopulse Gaming,5999,243523.96,IDR,2026-04-22,470100,3729,prepaid,ID,ProcessorGamma,approved
+TXN-00286,MERCH-004,Tokopulse Gaming,5968,463.22,USD,2026-04-26,470100,0015,credit,SG,ProcessorBeta,approved
+TXN-00287,MERCH-003,Tokopulse Premium Subscription,5999,349.52,USD,2026-03-03,411111,5219,credit,US,ProcessorBeta,approved
+TXN-00288,MERCH-003,Tokopulse Premium Subscription,5912,525587.64,IDR,2026-03-22,470100,3617,debit,ID,ProcessorGamma,approved
+TXN-00289,MERCH-001,Tokopulse Wallet Topup,5912,698703.37,IDR,2026-04-29,549920,7418,prepaid,ID,ProcessorAlpha,approved
+TXN-00290,MERCH-001,Tokopulse Wallet Topup,5816,354.11,BRL,2026-04-06,552233,8020,credit,BR,ProcessorGamma,approved
+TXN-00291,MERCH-001,Tokopulse Wallet Topup,5968,91.39,USD,2026-02-20,470100,8911,debit,SG,ProcessorGamma,approved
+TXN-00292,MERCH-002,Tokopulse Marketplace,5411,270213.33,IDR,2026-02-11,411111,2237,prepaid,ID,ProcessorAlpha,approved
+TXN-00293,MERCH-004,Tokopulse Gaming,5968,354.28,USD,2026-01-31,552233,5758,prepaid,SG,ProcessorAlpha,approved
+TXN-00294,MERCH-003,Tokopulse Premium Subscription,5816,478.29,BRL,2026-03-02,424242,8982,debit,BR,ProcessorAlpha,approved
+TXN-00295,MERCH-002,Tokopulse Marketplace,5816,301.35,GBP,2026-03-31,552233,3380,credit,GB,ProcessorGamma,approved
+TXN-00296,MERCH-003,Tokopulse Premium Subscription,5732,166728.08,IDR,2026-02-07,411111,1811,prepaid,ID,ProcessorGamma,approved
+TXN-00297,MERCH-003,Tokopulse Premium Subscription,5816,253485.96,IDR,2026-03-31,650400,9134,credit,ID,ProcessorBeta,approved
+TXN-00298,MERCH-001,Tokopulse Wallet Topup,5732,76719.26,IDR,2026-03-14,411111,1782,prepaid,ID,ProcessorGamma,approved
+TXN-00299,MERCH-004,Tokopulse Gaming,5816,393.02,USD,2026-03-13,601100,4685,prepaid,SG,ProcessorAlpha,approved
+TXN-00300,MERCH-003,Tokopulse Premium Subscription,5816,116909.56,IDR,2026-02-03,552233,2377,debit,ID,ProcessorAlpha,approved
+TXN-00301,MERCH-003,Tokopulse Premium Subscription,5999,423.63,USD,2026-04-28,424242,5084,prepaid,US,ProcessorAlpha,approved
+TXN-00302,MERCH-003,Tokopulse Premium Subscription,5411,250314.38,IDR,2026-03-19,601100,4154,credit,ID,ProcessorAlpha,approved
+TXN-00303,MERCH-001,Tokopulse Wallet Topup,5999,605046.70,IDR,2026-05-01,411111,3546,debit,ID,ProcessorAlpha,approved
+TXN-00304,MERCH-004,Tokopulse Gaming,5816,497.84,USD,2026-04-18,650400,3727,credit,NG,ProcessorBeta,approved
+TXN-00305,MERCH-002,Tokopulse Marketplace,5411,49.38,USD,2026-02-05,650400,3576,prepaid,US,ProcessorGamma,approved
+TXN-00306,MERCH-003,Tokopulse Premium Subscription,5999,643665.94,IDR,2026-04-06,411111,0906,prepaid,ID,ProcessorAlpha,approved
+TXN-00307,MERCH-004,Tokopulse Gaming,5912,21466.47,IDR,2026-02-22,549920,4845,credit,ID,ProcessorGamma,approved
+TXN-00308,MERCH-004,Tokopulse Gaming,5411,285.92,GBP,2026-04-01,401234,7544,debit,GB,ProcessorAlpha,approved
+TXN-00309,MERCH-002,Tokopulse Marketplace,5999,45.31,USD,2026-02-07,601100,4866,prepaid,US,ProcessorBeta,approved
+TXN-00310,MERCH-004,Tokopulse Gaming,5816,153.16,USD,2026-03-15,549920,3094,credit,SG,ProcessorAlpha,approved
+TXN-00311,MERCH-004,Tokopulse Gaming,5816,500454.38,IDR,2026-03-19,470100,5898,prepaid,ID,ProcessorBeta,declined
+TXN-00312,MERCH-002,Tokopulse Marketplace,5411,206894.70,IDR,2026-03-01,401234,8980,prepaid,ID,ProcessorAlpha,approved
+TXN-00313,MERCH-001,Tokopulse Wallet Topup,5816,152841.95,IDR,2026-04-26,545454,9077,debit,ID,ProcessorAlpha,approved
+TXN-00314,MERCH-002,Tokopulse Marketplace,5816,369.12,USD,2026-04-16,411511,1203,debit,US,ProcessorBeta,approved
+TXN-00315,MERCH-002,Tokopulse Marketplace,5732,358.73,USD,2026-02-14,411511,8440,credit,SG,ProcessorBeta,declined
+TXN-00316,MERCH-004,Tokopulse Gaming,5999,140872.56,IDR,2026-02-24,552233,2241,debit,ID,ProcessorBeta,approved
+TXN-00317,MERCH-001,Tokopulse Wallet Topup,5816,288674.98,IDR,2026-02-01,601100,7531,debit,ID,ProcessorBeta,declined
+TXN-00318,MERCH-001,Tokopulse Wallet Topup,5912,682773.29,IDR,2026-02-11,470100,9223,credit,ID,ProcessorBeta,approved
+TXN-00319,MERCH-003,Tokopulse Premium Subscription,5411,606020.72,IDR,2026-04-28,424242,3920,debit,ID,ProcessorAlpha,approved
+TXN-00320,MERCH-003,Tokopulse Premium Subscription,5816,409.19,USD,2026-03-17,470100,9880,credit,SG,ProcessorAlpha,approved
+TXN-00321,MERCH-001,Tokopulse Wallet Topup,5968,275450.33,IDR,2026-04-29,552233,9525,debit,ID,ProcessorAlpha,approved
+TXN-00322,MERCH-001,Tokopulse Wallet Topup,5816,41.51,USD,2026-03-05,411111,4751,prepaid,SG,ProcessorAlpha,approved
+TXN-00323,MERCH-004,Tokopulse Gaming,5968,271.52,USD,2026-04-29,424242,7275,credit,US,ProcessorGamma,approved
+TXN-00324,MERCH-001,Tokopulse Wallet Topup,5732,383804.53,IDR,2026-02-04,549920,2986,prepaid,ID,ProcessorGamma,approved
+TXN-00325,MERCH-004,Tokopulse Gaming,5912,304160.82,IDR,2026-04-19,650400,8655,credit,ID,ProcessorAlpha,approved
+TXN-00326,MERCH-003,Tokopulse Premium Subscription,5999,26.61,USD,2026-02-21,424242,5429,prepaid,US,ProcessorGamma,approved
+TXN-00327,MERCH-004,Tokopulse Gaming,5411,19401.24,IDR,2026-04-15,601100,4075,debit,ID,ProcessorAlpha,approved
+TXN-00328,MERCH-001,Tokopulse Wallet Topup,5816,215410.15,IDR,2026-03-06,552233,5846,prepaid,ID,ProcessorAlpha,declined
+TXN-00329,MERCH-002,Tokopulse Marketplace,5999,678440.10,IDR,2026-02-12,470100,9367,prepaid,ID,ProcessorGamma,approved
+TXN-00330,MERCH-001,Tokopulse Wallet Topup,5968,656517.93,IDR,2026-02-18,549920,5595,prepaid,ID,ProcessorBeta,approved
+TXN-00331,MERCH-003,Tokopulse Premium Subscription,5968,178.46,USD,2026-04-11,411511,5524,prepaid,US,ProcessorBeta,approved
+TXN-00332,MERCH-003,Tokopulse Premium Subscription,5411,447.63,USD,2026-03-02,650400,3364,credit,SG,ProcessorGamma,approved
+TXN-00333,MERCH-004,Tokopulse Gaming,5411,433014.28,IDR,2026-03-10,601100,2356,debit,ID,ProcessorGamma,approved
+TXN-00334,MERCH-003,Tokopulse Premium Subscription,5999,277.88,USD,2026-03-15,510510,1311,prepaid,NG,ProcessorAlpha,approved
+TXN-00335,MERCH-002,Tokopulse Marketplace,5411,493.79,USD,2026-03-17,510510,1109,debit,US,ProcessorGamma,approved
+TXN-00336,MERCH-003,Tokopulse Premium Subscription,5968,416666.39,IDR,2026-02-21,424242,0328,credit,ID,ProcessorBeta,approved
+TXN-00337,MERCH-001,Tokopulse Wallet Topup,5816,671236.67,IDR,2026-03-08,601100,3222,credit,ID,ProcessorGamma,approved
+TXN-00338,MERCH-001,Tokopulse Wallet Topup,5816,44.26,USD,2026-04-14,424242,3083,debit,US,ProcessorAlpha,approved
+TXN-00339,MERCH-001,Tokopulse Wallet Topup,5816,170986.36,IDR,2026-03-13,552233,7967,debit,ID,ProcessorGamma,approved
+TXN-00340,MERCH-003,Tokopulse Premium Subscription,5912,600252.62,IDR,2026-02-11,424242,8099,prepaid,ID,ProcessorBeta,approved
+TXN-00341,MERCH-004,Tokopulse Gaming,5816,33919.59,IDR,2026-03-12,510510,0917,debit,ID,ProcessorBeta,declined
+TXN-00342,MERCH-003,Tokopulse Premium Subscription,5816,129800.75,IDR,2026-02-18,424242,5862,debit,ID,ProcessorAlpha,approved
+TXN-00343,MERCH-004,Tokopulse Gaming,5999,433.61,USD,2026-02-19,549920,5420,credit,SG,ProcessorBeta,approved
+TXN-00344,MERCH-003,Tokopulse Premium Subscription,5816,389.12,USD,2026-03-11,470100,7424,prepaid,SG,ProcessorBeta,approved
+TXN-00345,MERCH-003,Tokopulse Premium Subscription,5999,470.77,USD,2026-02-16,549920,1634,prepaid,SG,ProcessorAlpha,approved
+TXN-00346,MERCH-003,Tokopulse Premium Subscription,5816,203.42,USD,2026-02-11,424242,2002,credit,US,ProcessorGamma,approved
+TXN-00347,MERCH-002,Tokopulse Marketplace,5816,133.26,USD,2026-04-18,411511,2907,prepaid,NG,ProcessorAlpha,approved
+TXN-00348,MERCH-002,Tokopulse Marketplace,5411,586907.37,IDR,2026-03-03,411511,3492,prepaid,ID,ProcessorAlpha,approved
+TXN-00349,MERCH-003,Tokopulse Premium Subscription,5816,253016.34,IDR,2026-02-03,601100,1072,prepaid,ID,ProcessorAlpha,approved
+TXN-00350,MERCH-004,Tokopulse Gaming,5816,182665.81,IDR,2026-03-20,552233,3671,credit,ID,ProcessorAlpha,approved
+TXN-00351,MERCH-003,Tokopulse Premium Subscription,5912,192744.44,IDR,2026-03-17,411111,4565,debit,ID,ProcessorAlpha,approved
+TXN-00352,MERCH-004,Tokopulse Gaming,5816,241.30,USD,2026-03-06,545454,4916,debit,US,ProcessorGamma,approved
+TXN-00353,MERCH-001,Tokopulse Wallet Topup,5732,655994.00,IDR,2026-03-03,549920,9790,debit,ID,ProcessorAlpha,approved
+TXN-00354,MERCH-002,Tokopulse Marketplace,5816,640739.90,IDR,2026-03-18,401234,7193,credit,ID,ProcessorAlpha,approved
+TXN-00355,MERCH-004,Tokopulse Gaming,5816,606690.03,IDR,2026-02-19,424242,4959,credit,ID,ProcessorGamma,approved
+TXN-00356,MERCH-003,Tokopulse Premium Subscription,5816,234.92,USD,2026-03-22,453210,6499,debit,NG,ProcessorAlpha,approved
+TXN-00357,MERCH-001,Tokopulse Wallet Topup,5816,597201.85,IDR,2026-04-29,401234,9751,credit,ID,ProcessorAlpha,approved
+TXN-00358,MERCH-004,Tokopulse Gaming,5816,50514.21,IDR,2026-03-12,470100,7984,credit,ID,ProcessorAlpha,approved
+TXN-00359,MERCH-004,Tokopulse Gaming,5816,518762.04,IDR,2026-02-18,411111,1840,prepaid,ID,ProcessorBeta,approved
+TXN-00360,MERCH-003,Tokopulse Premium Subscription,5411,728310.65,IDR,2026-02-28,650400,2903,credit,ID,ProcessorBeta,approved
+TXN-00361,MERCH-003,Tokopulse Premium Subscription,5816,159388.27,IDR,2026-02-06,510510,5941,debit,ID,ProcessorAlpha,approved
+TXN-00362,MERCH-001,Tokopulse Wallet Topup,5816,328.29,GBP,2026-04-10,549920,6723,prepaid,GB,ProcessorAlpha,approved
+TXN-00363,MERCH-003,Tokopulse Premium Subscription,5411,411897.63,IDR,2026-03-21,601100,6314,debit,ID,ProcessorGamma,approved
+TXN-00364,MERCH-002,Tokopulse Marketplace,5968,461755.00,IDR,2026-03-04,552233,3944,credit,ID,ProcessorBeta,approved
+TXN-00365,MERCH-001,Tokopulse Wallet Topup,5816,454.72,USD,2026-02-06,453210,7248,prepaid,US,ProcessorAlpha,approved
+TXN-00366,MERCH-003,Tokopulse Premium Subscription,5816,239.37,USD,2026-04-23,650400,9704,prepaid,US,ProcessorGamma,approved
+TXN-00367,MERCH-004,Tokopulse Gaming,5411,180.83,USD,2026-02-08,545454,5277,credit,US,ProcessorAlpha,approved
+TXN-00368,MERCH-002,Tokopulse Marketplace,5968,134.83,USD,2026-04-01,401234,9658,debit,NG,ProcessorGamma,approved
+TXN-00369,MERCH-002,Tokopulse Marketplace,5999,282609.99,IDR,2026-02-26,424242,3909,prepaid,ID,ProcessorAlpha,approved
+TXN-00370,MERCH-002,Tokopulse Marketplace,5912,92.97,GBP,2026-04-24,424242,6246,debit,GB,ProcessorGamma,approved
+TXN-00371,MERCH-004,Tokopulse Gaming,5816,531426.99,IDR,2026-03-20,453210,8562,prepaid,ID,ProcessorAlpha,approved
+TXN-00372,MERCH-003,Tokopulse Premium Subscription,5816,141.13,GBP,2026-03-09,650400,7361,prepaid,GB,ProcessorGamma,approved
+TXN-00373,MERCH-004,Tokopulse Gaming,5999,125162.18,IDR,2026-04-28,470100,3893,prepaid,ID,ProcessorAlpha,approved
+TXN-00374,MERCH-003,Tokopulse Premium Subscription,5411,200856.64,IDR,2026-04-12,411511,0945,prepaid,ID,ProcessorAlpha,approved
+TXN-00375,MERCH-002,Tokopulse Marketplace,5999,234.18,BRL,2026-03-13,510510,7177,credit,BR,ProcessorAlpha,approved
+TXN-00376,MERCH-004,Tokopulse Gaming,5816,326012.06,IDR,2026-03-09,453210,0719,prepaid,ID,ProcessorBeta,approved
+TXN-00377,MERCH-004,Tokopulse Gaming,5816,538714.25,IDR,2026-03-09,601100,9952,debit,ID,ProcessorGamma,approved
+TXN-00378,MERCH-003,Tokopulse Premium Subscription,5999,110163.28,IDR,2026-04-20,545454,9506,debit,ID,ProcessorAlpha,declined
+TXN-00379,MERCH-001,Tokopulse Wallet Topup,5411,647231.38,IDR,2026-02-10,552233,8614,debit,ID,ProcessorGamma,approved
+TXN-00380,MERCH-004,Tokopulse Gaming,5816,58.37,USD,2026-04-13,552233,7145,debit,NG,ProcessorAlpha,approved
+TXN-00381,MERCH-004,Tokopulse Gaming,5912,307246.67,IDR,2026-02-17,424242,3807,prepaid,ID,ProcessorAlpha,approved
+TXN-00382,MERCH-002,Tokopulse Marketplace,5816,463.26,USD,2026-03-09,601100,7534,credit,SG,ProcessorBeta,approved
+TXN-00383,MERCH-001,Tokopulse Wallet Topup,5999,615847.69,IDR,2026-02-13,545454,3532,prepaid,ID,ProcessorAlpha,approved
+TXN-00384,MERCH-004,Tokopulse Gaming,5816,356.97,GBP,2026-04-02,411111,6847,prepaid,GB,ProcessorGamma,approved
+TXN-00385,MERCH-002,Tokopulse Marketplace,5816,250559.05,IDR,2026-02-24,601100,8829,debit,ID,ProcessorAlpha,approved
+TXN-00386,MERCH-003,Tokopulse Premium Subscription,5411,202442.57,IDR,2026-03-10,453210,6884,prepaid,ID,ProcessorBeta,approved
+TXN-00387,MERCH-001,Tokopulse Wallet Topup,5968,652079.78,IDR,2026-03-27,510510,3309,credit,ID,ProcessorGamma,approved
+TXN-00388,MERCH-001,Tokopulse Wallet Topup,5411,466.56,USD,2026-04-25,545454,5992,debit,SG,ProcessorAlpha,approved
+TXN-00389,MERCH-002,Tokopulse Marketplace,5999,537.84,BRL,2026-03-12,650400,9255,debit,BR,ProcessorAlpha,approved
+TXN-00390,MERCH-001,Tokopulse Wallet Topup,5912,229277.70,IDR,2026-05-01,510510,7448,debit,ID,ProcessorAlpha,declined
+TXN-00391,MERCH-004,Tokopulse Gaming,5816,147399.09,IDR,2026-04-22,545454,1178,prepaid,ID,ProcessorAlpha,approved
+TXN-00392,MERCH-004,Tokopulse Gaming,5999,556841.83,IDR,2026-02-21,424242,4831,credit,ID,ProcessorAlpha,approved
+TXN-00393,MERCH-002,Tokopulse Marketplace,5816,260.53,USD,2026-03-31,424242,0824,debit,NG,ProcessorAlpha,approved
+TXN-00394,MERCH-002,Tokopulse Marketplace,5912,519145.90,IDR,2026-02-19,552233,2185,credit,ID,ProcessorGamma,approved
+TXN-00395,MERCH-002,Tokopulse Marketplace,5816,657918.81,IDR,2026-03-12,650400,5071,debit,ID,ProcessorBeta,approved
+TXN-00396,MERCH-003,Tokopulse Premium Subscription,5816,709984.10,IDR,2026-04-26,411511,0539,debit,ID,ProcessorGamma,approved
+TXN-00397,MERCH-004,Tokopulse Gaming,5968,115.57,GBP,2026-04-10,424242,2439,prepaid,GB,ProcessorBeta,approved
+TXN-00398,MERCH-002,Tokopulse Marketplace,5411,99063.99,IDR,2026-03-17,601100,8590,prepaid,ID,ProcessorAlpha,approved
+TXN-00399,MERCH-001,Tokopulse Wallet Topup,5411,13.80,USD,2026-04-04,510510,3285,debit,SG,ProcessorGamma,approved
+TXN-00400,MERCH-003,Tokopulse Premium Subscription,5999,272.65,USD,2026-02-11,510510,3722,prepaid,US,ProcessorAlpha,approved
+TXN-00401,MERCH-003,Tokopulse Premium Subscription,5999,54.83,USD,2026-01-31,411111,4915,credit,US,ProcessorAlpha,declined
+TXN-00402,MERCH-002,Tokopulse Marketplace,5912,368565.06,IDR,2026-03-14,549920,4886,credit,ID,ProcessorBeta,approved
+TXN-00403,MERCH-004,Tokopulse Gaming,5999,60.91,USD,2026-02-20,453210,0552,credit,NG,ProcessorBeta,approved
+TXN-00404,MERCH-001,Tokopulse Wallet Topup,5816,210.59,GBP,2026-03-17,601100,2685,debit,GB,ProcessorAlpha,approved
+TXN-00405,MERCH-002,Tokopulse Marketplace,5411,18639.50,IDR,2026-04-23,552233,2441,debit,ID,ProcessorGamma,approved
+TXN-00406,MERCH-001,Tokopulse Wallet Topup,5816,127510.57,IDR,2026-03-06,453210,7664,credit,ID,ProcessorAlpha,approved
+TXN-00407,MERCH-002,Tokopulse Marketplace,5816,255.86,USD,2026-03-18,401234,9097,credit,SG,ProcessorGamma,approved
+TXN-00408,MERCH-002,Tokopulse Marketplace,5999,253.39,USD,2026-02-12,545454,8001,prepaid,NG,ProcessorAlpha,declined
+TXN-00409,MERCH-002,Tokopulse Marketplace,5816,48.09,USD,2026-02-21,470100,0506,debit,NG,ProcessorAlpha,approved
+TXN-00410,MERCH-004,Tokopulse Gaming,5816,149.52,USD,2026-02-15,401234,3832,credit,SG,ProcessorAlpha,approved
+TXN-00411,MERCH-001,Tokopulse Wallet Topup,5999,262912.00,IDR,2026-02-12,545454,2862,debit,ID,ProcessorAlpha,approved
+TXN-00412,MERCH-003,Tokopulse Premium Subscription,5912,297.97,USD,2026-02-23,453210,6749,debit,NG,ProcessorAlpha,declined
+TXN-00413,MERCH-001,Tokopulse Wallet Topup,5816,554309.76,IDR,2026-04-27,453210,2299,credit,ID,ProcessorAlpha,approved
+TXN-00414,MERCH-002,Tokopulse Marketplace,5411,355.76,GBP,2026-02-08,545454,7859,credit,GB,ProcessorGamma,approved
+TXN-00415,MERCH-004,Tokopulse Gaming,5411,454.51,USD,2026-04-18,411511,0824,debit,NG,ProcessorBeta,approved
+TXN-00416,MERCH-004,Tokopulse Gaming,5411,293.47,GBP,2026-04-04,453210,2210,debit,GB,ProcessorBeta,approved
+TXN-00417,MERCH-003,Tokopulse Premium Subscription,5912,417.07,USD,2026-04-28,411111,8404,debit,NG,ProcessorBeta,approved
+TXN-00418,MERCH-001,Tokopulse Wallet Topup,5816,191477.93,IDR,2026-04-16,453210,8071,prepaid,ID,ProcessorAlpha,approved
+TXN-00419,MERCH-001,Tokopulse Wallet Topup,5411,397.86,GBP,2026-04-28,601100,6209,debit,GB,ProcessorGamma,approved
+TXN-00420,MERCH-001,Tokopulse Wallet Topup,5411,333.32,GBP,2026-03-26,545454,8012,prepaid,GB,ProcessorGamma,approved
+TXN-00421,MERCH-001,Tokopulse Wallet Topup,5912,208.35,USD,2026-03-10,453210,3500,credit,SG,ProcessorAlpha,approved
+TXN-00422,MERCH-003,Tokopulse Premium Subscription,5999,38938.17,IDR,2026-03-14,601100,7242,debit,ID,ProcessorAlpha,approved
+TXN-00423,MERCH-002,Tokopulse Marketplace,5816,291100.50,IDR,2026-02-23,453210,2472,debit,ID,ProcessorAlpha,approved
+TXN-00424,MERCH-002,Tokopulse Marketplace,5999,663241.20,IDR,2026-03-22,545454,8302,prepaid,ID,ProcessorAlpha,approved
+TXN-00425,MERCH-002,Tokopulse Marketplace,5999,21658.02,IDR,2026-02-22,424242,9261,prepaid,ID,ProcessorAlpha,approved
+TXN-00426,MERCH-003,Tokopulse Premium Subscription,5816,738622.46,IDR,2026-04-06,470100,4150,prepaid,ID,ProcessorBeta,approved
+TXN-00427,MERCH-004,Tokopulse Gaming,5999,168.91,USD,2026-03-06,453210,6158,prepaid,SG,ProcessorGamma,approved
+TXN-00428,MERCH-001,Tokopulse Wallet Topup,5732,185.04,USD,2026-02-02,552233,1950,prepaid,SG,ProcessorAlpha,approved
+TXN-00429,MERCH-004,Tokopulse Gaming,5732,669965.34,IDR,2026-04-18,650400,5328,debit,ID,ProcessorBeta,approved
+TXN-00430,MERCH-002,Tokopulse Marketplace,5816,152929.80,IDR,2026-04-14,411111,2843,prepaid,ID,ProcessorAlpha,declined
+TXN-00431,MERCH-003,Tokopulse Premium Subscription,5968,149.13,USD,2026-04-10,552233,6677,prepaid,NG,ProcessorAlpha,approved
+TXN-00432,MERCH-001,Tokopulse Wallet Topup,5411,249.03,USD,2026-05-01,552233,5311,credit,US,ProcessorAlpha,approved
+TXN-00433,MERCH-004,Tokopulse Gaming,5411,447.39,USD,2026-02-25,411111,2656,debit,SG,ProcessorAlpha,approved
+TXN-00434,MERCH-002,Tokopulse Marketplace,5816,446645.90,IDR,2026-03-21,552233,3066,debit,ID,ProcessorGamma,approved
+TXN-00435,MERCH-003,Tokopulse Premium Subscription,5999,250860.78,IDR,2026-03-28,650400,5927,debit,ID,ProcessorAlpha,approved
+TXN-00436,MERCH-003,Tokopulse Premium Subscription,5968,60.67,USD,2026-04-20,601100,2618,debit,SG,ProcessorAlpha,approved
+TXN-00437,MERCH-001,Tokopulse Wallet Topup,5999,360611.12,IDR,2026-04-12,424242,1252,debit,ID,ProcessorGamma,approved
+TXN-00438,MERCH-004,Tokopulse Gaming,5411,432.89,BRL,2026-03-08,549920,7367,credit,BR,ProcessorGamma,approved
+TXN-00439,MERCH-001,Tokopulse Wallet Topup,5999,258.36,BRL,2026-04-18,411511,3987,credit,BR,ProcessorGamma,approved
+TXN-00440,MERCH-001,Tokopulse Wallet Topup,5912,418.03,GBP,2026-02-14,401234,2890,prepaid,GB,ProcessorGamma,approved
+TXN-00441,MERCH-001,Tokopulse Wallet Topup,5411,308983.52,IDR,2026-04-04,601100,3043,prepaid,ID,ProcessorGamma,approved
+TXN-00442,MERCH-002,Tokopulse Marketplace,5999,209.75,USD,2026-03-08,411511,1080,debit,NG,ProcessorAlpha,approved
+TXN-00443,MERCH-001,Tokopulse Wallet Topup,5999,505841.86,IDR,2026-04-14,411511,4486,prepaid,ID,ProcessorAlpha,approved
+TXN-00444,MERCH-002,Tokopulse Marketplace,5968,382919.54,IDR,2026-03-08,424242,6241,debit,ID,ProcessorGamma,approved
+TXN-00445,MERCH-002,Tokopulse Marketplace,5411,497.63,BRL,2026-03-07,552233,9909,prepaid,BR,ProcessorBeta,approved
+TXN-00446,MERCH-003,Tokopulse Premium Subscription,5816,242300.24,IDR,2026-03-18,401234,1288,debit,ID,ProcessorBeta,declined
+TXN-00447,MERCH-001,Tokopulse Wallet Topup,5816,65.31,USD,2026-03-13,470100,2273,debit,SG,ProcessorAlpha,approved
+TXN-00448,MERCH-003,Tokopulse Premium Subscription,5912,448830.45,IDR,2026-04-17,411511,7660,credit,ID,ProcessorGamma,approved
+TXN-00449,MERCH-004,Tokopulse Gaming,5411,724068.12,IDR,2026-04-08,545454,3423,debit,ID,ProcessorBeta,approved
+TXN-00450,MERCH-001,Tokopulse Wallet Topup,5816,19.04,USD,2026-04-05,545454,4484,prepaid,NG,ProcessorAlpha,approved
+TXN-00451,MERCH-001,Tokopulse Wallet Topup,5411,301875.27,IDR,2026-04-16,401234,0896,debit,ID,ProcessorAlpha,approved
+TXN-00452,MERCH-003,Tokopulse Premium Subscription,5816,486704.26,IDR,2026-04-14,552233,7449,credit,ID,ProcessorAlpha,approved
+TXN-00453,MERCH-003,Tokopulse Premium Subscription,5816,311114.87,IDR,2026-03-08,401234,8457,credit,ID,ProcessorGamma,approved
+TXN-00454,MERCH-004,Tokopulse Gaming,5816,623.19,BRL,2026-02-25,545454,4853,prepaid,BR,ProcessorBeta,approved
+TXN-00455,MERCH-001,Tokopulse Wallet Topup,5999,581.22,BRL,2026-02-08,470100,8810,debit,BR,ProcessorAlpha,approved
+TXN-00456,MERCH-003,Tokopulse Premium Subscription,5999,479687.75,IDR,2026-03-17,552233,2870,prepaid,ID,ProcessorAlpha,approved
+TXN-00457,MERCH-003,Tokopulse Premium Subscription,5912,582946.28,IDR,2026-03-15,601100,7721,debit,ID,ProcessorAlpha,approved
+TXN-00458,MERCH-001,Tokopulse Wallet Topup,5732,674517.41,IDR,2026-02-16,549920,4116,prepaid,ID,ProcessorGamma,approved
+TXN-00459,MERCH-004,Tokopulse Gaming,5968,497402.72,IDR,2026-02-24,545454,8503,debit,ID,ProcessorBeta,declined
+TXN-00460,MERCH-004,Tokopulse Gaming,5816,116663.60,IDR,2026-02-14,424242,6208,credit,ID,ProcessorAlpha,approved
+TXN-00461,MERCH-001,Tokopulse Wallet Topup,5816,164909.83,IDR,2026-04-14,453210,5298,debit,ID,ProcessorAlpha,approved
+TXN-00462,MERCH-004,Tokopulse Gaming,5816,8.63,USD,2026-02-26,650400,1704,credit,NG,ProcessorGamma,approved
+TXN-00463,MERCH-002,Tokopulse Marketplace,5912,435461.99,IDR,2026-04-22,545454,1106,prepaid,ID,ProcessorBeta,approved
+TXN-00464,MERCH-001,Tokopulse Wallet Topup,5411,494148.61,IDR,2026-03-02,650400,7728,prepaid,ID,ProcessorBeta,approved
+TXN-00465,MERCH-002,Tokopulse Marketplace,5999,193.94,USD,2026-04-30,453210,3747,credit,SG,ProcessorAlpha,declined
+TXN-00466,MERCH-004,Tokopulse Gaming,5816,318.78,USD,2026-04-23,401234,3278,credit,NG,ProcessorAlpha,approved
+TXN-00467,MERCH-001,Tokopulse Wallet Topup,5411,191731.34,IDR,2026-02-28,650400,9112,prepaid,ID,ProcessorGamma,approved
+TXN-00468,MERCH-004,Tokopulse Gaming,5816,358917.69,IDR,2026-04-02,510510,1582,credit,ID,ProcessorGamma,approved
+TXN-00469,MERCH-002,Tokopulse Marketplace,5999,391412.96,IDR,2026-02-13,411511,6252,credit,ID,ProcessorAlpha,declined
+TXN-00470,MERCH-001,Tokopulse Wallet Topup,5816,253.73,USD,2026-04-20,411111,8806,credit,SG,ProcessorBeta,approved
+TXN-00471,MERCH-001,Tokopulse Wallet Topup,5999,149.03,USD,2026-03-22,552233,3416,credit,SG,ProcessorBeta,approved
+TXN-00472,MERCH-002,Tokopulse Marketplace,5816,104782.91,IDR,2026-04-24,411511,1808,prepaid,ID,ProcessorBeta,approved
+TXN-00473,MERCH-001,Tokopulse Wallet Topup,5411,340.44,USD,2026-02-11,411511,1661,credit,SG,ProcessorBeta,approved
+TXN-00474,MERCH-003,Tokopulse Premium Subscription,5968,575379.18,IDR,2026-02-18,510510,5486,credit,ID,ProcessorAlpha,approved
+TXN-00475,MERCH-001,Tokopulse Wallet Topup,5816,98547.11,IDR,2026-04-29,453210,6313,debit,ID,ProcessorGamma,approved
+TXN-00476,MERCH-004,Tokopulse Gaming,5816,458.62,USD,2026-02-10,401234,0501,prepaid,US,ProcessorGamma,approved
+TXN-00477,MERCH-002,Tokopulse Marketplace,5816,469759.36,IDR,2026-03-09,601100,4139,debit,ID,ProcessorAlpha,approved
+TXN-00478,MERCH-003,Tokopulse Premium Subscription,5411,84617.13,IDR,2026-03-28,411111,7754,prepaid,ID,ProcessorAlpha,declined
+TXN-00479,MERCH-003,Tokopulse Premium Subscription,5816,318125.64,IDR,2026-02-02,510510,5845,debit,ID,ProcessorAlpha,approved
+TXN-00480,MERCH-001,Tokopulse Wallet Topup,5816,406032.15,IDR,2026-02-13,545454,6963,prepaid,ID,ProcessorAlpha,approved
+TXN-00481,MERCH-003,Tokopulse Premium Subscription,5999,104565.34,IDR,2026-03-30,549920,8821,credit,ID,ProcessorAlpha,approved
+TXN-00482,MERCH-004,Tokopulse Gaming,5816,325.66,GBP,2026-02-27,411511,0223,prepaid,GB,ProcessorAlpha,approved
+TXN-00483,MERCH-003,Tokopulse Premium Subscription,5816,791.97,BRL,2026-02-22,601100,2726,prepaid,BR,ProcessorBeta,approved
+TXN-00484,MERCH-003,Tokopulse Premium Subscription,5411,203989.89,IDR,2026-02-03,601100,4251,prepaid,ID,ProcessorAlpha,approved
+TXN-00485,MERCH-002,Tokopulse Marketplace,5999,64929.99,IDR,2026-03-22,552233,1096,prepaid,ID,ProcessorAlpha,approved
+TXN-00486,MERCH-001,Tokopulse Wallet Topup,5816,119540.61,IDR,2026-02-14,453210,8360,prepaid,ID,ProcessorBeta,approved
+TXN-00487,MERCH-003,Tokopulse Premium Subscription,5816,202379.89,IDR,2026-03-22,650400,7289,prepaid,ID,ProcessorAlpha,approved
+TXN-00488,MERCH-001,Tokopulse Wallet Topup,5411,626730.39,IDR,2026-02-03,650400,1746,credit,ID,ProcessorAlpha,approved
+TXN-00489,MERCH-003,Tokopulse Premium Subscription,5968,474292.69,IDR,2026-02-24,552233,9617,debit,ID,ProcessorAlpha,approved
+TXN-00490,MERCH-003,Tokopulse Premium Subscription,5816,368822.69,IDR,2026-02-07,424242,9332,prepaid,ID,ProcessorAlpha,approved
+TXN-00491,MERCH-002,Tokopulse Marketplace,5968,25891.33,IDR,2026-02-16,411111,8883,prepaid,ID,ProcessorGamma,approved
+TXN-00492,MERCH-002,Tokopulse Marketplace,5968,287304.55,IDR,2026-02-21,424242,4068,credit,ID,ProcessorAlpha,approved
+TXN-00493,MERCH-003,Tokopulse Premium Subscription,5816,115.87,USD,2026-02-24,601100,5985,credit,NG,ProcessorGamma,approved
+TXN-00494,MERCH-004,Tokopulse Gaming,5816,88210.46,IDR,2026-03-20,510510,0481,debit,ID,ProcessorGamma,approved
+TXN-00495,MERCH-004,Tokopulse Gaming,5816,353065.63,IDR,2026-04-03,650400,7856,credit,ID,ProcessorAlpha,approved
+TXN-00496,MERCH-002,Tokopulse Marketplace,5816,101958.20,IDR,2026-02-08,601100,3917,debit,ID,ProcessorAlpha,approved
+TXN-00497,MERCH-001,Tokopulse Wallet Topup,5816,244.56,USD,2026-02-27,453210,6163,credit,SG,ProcessorBeta,approved
+TXN-00498,MERCH-001,Tokopulse Wallet Topup,5816,123.67,USD,2026-02-21,601100,1662,credit,SG,ProcessorAlpha,approved
+TXN-00499,MERCH-004,Tokopulse Gaming,5912,592019.41,IDR,2026-02-16,510510,5207,credit,ID,ProcessorAlpha,approved
+TXN-00500,MERCH-002,Tokopulse Marketplace,5411,38.73,GBP,2026-05-01,510510,2948,prepaid,GB,ProcessorGamma,approved
+TXN-00501,MERCH-001,Tokopulse Wallet Topup,5732,451.82,GBP,2026-04-23,552233,8800,prepaid,GB,ProcessorAlpha,approved
+TXN-00502,MERCH-002,Tokopulse Marketplace,5999,73.95,GBP,2026-03-18,650400,5275,prepaid,GB,ProcessorAlpha,approved
+TXN-00503,MERCH-001,Tokopulse Wallet Topup,5816,351.38,GBP,2026-02-02,549920,1342,debit,GB,ProcessorBeta,approved
+TXN-00504,MERCH-002,Tokopulse Marketplace,5912,731958.90,IDR,2026-02-24,411111,3266,credit,ID,ProcessorAlpha,approved
+TXN-00505,MERCH-004,Tokopulse Gaming,5816,11.24,GBP,2026-04-02,411111,8382,prepaid,GB,ProcessorAlpha,approved
+TXN-00506,MERCH-004,Tokopulse Gaming,5999,680915.81,IDR,2026-02-24,552233,7480,debit,ID,ProcessorGamma,approved
+TXN-00507,MERCH-002,Tokopulse Marketplace,5912,145468.65,IDR,2026-03-24,549920,6126,credit,ID,ProcessorBeta,approved
+TXN-00508,MERCH-002,Tokopulse Marketplace,5999,611619.37,IDR,2026-04-18,411111,6333,credit,ID,ProcessorAlpha,approved
+TXN-00509,MERCH-003,Tokopulse Premium Subscription,5816,140.58,USD,2026-03-25,545454,8555,credit,SG,ProcessorAlpha,approved
+TXN-00510,MERCH-003,Tokopulse Premium Subscription,5816,325790.42,IDR,2026-02-10,411111,6699,debit,ID,ProcessorBeta,approved
+TXN-00511,MERCH-002,Tokopulse Marketplace,5968,484.04,USD,2026-03-24,424242,1705,credit,NG,ProcessorAlpha,approved
+TXN-00512,MERCH-003,Tokopulse Premium Subscription,5816,654781.88,IDR,2026-03-25,453210,4919,prepaid,ID,ProcessorAlpha,approved
+TXN-00513,MERCH-001,Tokopulse Wallet Topup,5732,498719.96,IDR,2026-04-16,650400,8550,prepaid,ID,ProcessorBeta,approved
+TXN-00514,MERCH-002,Tokopulse Marketplace,5999,674693.68,IDR,2026-04-14,601100,4188,prepaid,ID,ProcessorAlpha,approved
+TXN-00515,MERCH-002,Tokopulse Marketplace,5999,204216.48,IDR,2026-02-09,601100,7728,credit,ID,ProcessorBeta,approved
+TXN-00516,MERCH-003,Tokopulse Premium Subscription,5732,264922.43,IDR,2026-05-01,411111,7626,debit,ID,ProcessorGamma,approved
+TXN-00517,MERCH-002,Tokopulse Marketplace,5816,413768.83,IDR,2026-03-23,601100,3809,debit,ID,ProcessorGamma,approved
+TXN-00518,MERCH-003,Tokopulse Premium Subscription,5732,384.61,GBP,2026-02-16,601100,4358,credit,GB,ProcessorGamma,approved
+TXN-00519,MERCH-001,Tokopulse Wallet Topup,5411,467747.13,IDR,2026-04-23,411511,5440,prepaid,ID,ProcessorAlpha,approved
+TXN-00520,MERCH-003,Tokopulse Premium Subscription,5912,265.31,BRL,2026-04-02,549920,2636,debit,BR,ProcessorBeta,approved
+TXN-00521,MERCH-003,Tokopulse Premium Subscription,5968,418.59,USD,2026-04-23,453210,9702,credit,US,ProcessorAlpha,approved
+TXN-00522,MERCH-003,Tokopulse Premium Subscription,5968,85.89,GBP,2026-02-08,510510,9646,credit,GB,ProcessorBeta,approved
+TXN-00523,MERCH-002,Tokopulse Marketplace,5999,209.07,USD,2026-04-12,411111,0077,credit,US,ProcessorAlpha,approved
+TXN-00524,MERCH-001,Tokopulse Wallet Topup,5816,142586.05,IDR,2026-02-22,470100,3872,credit,ID,ProcessorAlpha,approved
+TXN-00525,MERCH-001,Tokopulse Wallet Topup,5816,727920.93,IDR,2026-02-19,453210,5716,debit,ID,ProcessorAlpha,approved
+TXN-00526,MERCH-003,Tokopulse Premium Subscription,5732,438.01,USD,2026-03-14,601100,2661,debit,NG,ProcessorAlpha,approved
+TXN-00527,MERCH-001,Tokopulse Wallet Topup,5816,349.83,USD,2026-03-05,453210,5384,debit,US,ProcessorAlpha,approved
+TXN-00528,MERCH-004,Tokopulse Gaming,5999,697793.30,IDR,2026-04-12,424242,6927,debit,ID,ProcessorGamma,approved
+TXN-00529,MERCH-003,Tokopulse Premium Subscription,5816,243863.99,IDR,2026-02-09,470100,9604,credit,ID,ProcessorGamma,approved
+TXN-00530,MERCH-002,Tokopulse Marketplace,5912,596583.31,IDR,2026-03-01,470100,7731,prepaid,ID,ProcessorBeta,approved
+TXN-00531,MERCH-004,Tokopulse Gaming,5816,701188.80,IDR,2026-02-27,424242,3947,debit,ID,ProcessorAlpha,approved
+TXN-00532,MERCH-004,Tokopulse Gaming,5411,363.59,USD,2026-02-03,411511,8401,debit,SG,ProcessorAlpha,approved
+TXN-00533,MERCH-002,Tokopulse Marketplace,5912,499.48,BRL,2026-02-23,552233,4272,credit,BR,ProcessorAlpha,approved
+TXN-00534,MERCH-002,Tokopulse Marketplace,5912,581922.99,IDR,2026-05-01,411111,5073,debit,ID,ProcessorBeta,declined
+TXN-00535,MERCH-003,Tokopulse Premium Subscription,5968,63.41,BRL,2026-04-18,411511,5325,prepaid,BR,ProcessorAlpha,approved
+TXN-00536,MERCH-002,Tokopulse Marketplace,5968,354390.36,IDR,2026-02-25,424242,8540,debit,ID,ProcessorAlpha,approved
+TXN-00537,MERCH-004,Tokopulse Gaming,5816,93068.59,IDR,2026-02-08,411511,1092,debit,ID,ProcessorBeta,approved
+TXN-00538,MERCH-002,Tokopulse Marketplace,5732,704474.07,IDR,2026-03-25,650400,7321,prepaid,ID,ProcessorGamma,approved
+TXN-00539,MERCH-003,Tokopulse Premium Subscription,5816,580323.93,IDR,2026-02-11,401234,0612,prepaid,ID,ProcessorBeta,approved
+TXN-00540,MERCH-002,Tokopulse Marketplace,5999,40816.66,IDR,2026-04-25,453210,5583,debit,ID,ProcessorAlpha,approved
+TXN-00541,MERCH-001,Tokopulse Wallet Topup,5816,541166.76,IDR,2026-02-06,424242,2212,prepaid,ID,ProcessorAlpha,approved
+TXN-00542,MERCH-001,Tokopulse Wallet Topup,5411,135527.22,IDR,2026-04-09,470100,3926,credit,ID,ProcessorBeta,approved
+TXN-00543,MERCH-004,Tokopulse Gaming,5411,302.70,BRL,2026-03-03,601100,1502,debit,BR,ProcessorAlpha,approved
+TXN-00544,MERCH-004,Tokopulse Gaming,5816,458977.87,IDR,2026-03-08,650400,3307,prepaid,ID,ProcessorGamma,approved
+TXN-00545,MERCH-002,Tokopulse Marketplace,5732,93645.11,IDR,2026-04-06,470100,4180,prepaid,ID,ProcessorAlpha,approved
+TXN-00546,MERCH-004,Tokopulse Gaming,5999,251110.41,IDR,2026-02-22,470100,3072,prepaid,ID,ProcessorBeta,approved
+TXN-00547,MERCH-004,Tokopulse Gaming,5816,437545.67,IDR,2026-02-01,411111,0644,credit,ID,ProcessorGamma,approved
+TXN-00548,MERCH-003,Tokopulse Premium Subscription,5968,712962.37,IDR,2026-03-10,545454,6197,debit,ID,ProcessorAlpha,approved
+TXN-00549,MERCH-001,Tokopulse Wallet Topup,5912,570873.40,IDR,2026-04-13,545454,0855,prepaid,ID,ProcessorGamma,approved
+TXN-00550,MERCH-002,Tokopulse Marketplace,5968,385843.44,IDR,2026-03-13,424242,2188,credit,ID,ProcessorAlpha,approved
+TXN-00551,MERCH-003,Tokopulse Premium Subscription,5411,673476.35,IDR,2026-02-22,552233,2278,prepaid,ID,ProcessorGamma,approved
+TXN-00552,MERCH-001,Tokopulse Wallet Topup,5411,360610.59,IDR,2026-03-31,411511,3508,prepaid,ID,ProcessorGamma,approved
+TXN-00553,MERCH-003,Tokopulse Premium Subscription,5816,88792.16,IDR,2026-03-13,549920,0418,credit,ID,ProcessorGamma,approved
+TXN-00554,MERCH-003,Tokopulse Premium Subscription,5816,251.45,USD,2026-02-06,453210,6583,debit,US,ProcessorAlpha,approved
+TXN-00555,MERCH-004,Tokopulse Gaming,5999,360798.23,IDR,2026-03-16,601100,5771,prepaid,ID,ProcessorBeta,approved
+TXN-00556,MERCH-001,Tokopulse Wallet Topup,5999,38.88,USD,2026-03-29,401234,3720,credit,US,ProcessorAlpha,approved
+TXN-00557,MERCH-002,Tokopulse Marketplace,5411,464.16,USD,2026-04-25,549920,9312,credit,SG,ProcessorBeta,approved
+TXN-00558,MERCH-004,Tokopulse Gaming,5912,16.70,USD,2026-02-16,401234,8579,debit,US,ProcessorAlpha,approved
+TXN-00559,MERCH-003,Tokopulse Premium Subscription,5999,604267.22,IDR,2026-02-28,453210,7101,credit,ID,ProcessorAlpha,declined
+TXN-00560,MERCH-004,Tokopulse Gaming,5816,745.22,BRL,2026-02-25,552233,8446,prepaid,BR,ProcessorAlpha,declined
+TXN-00561,MERCH-002,Tokopulse Marketplace,5732,10.36,USD,2026-02-18,650400,9193,credit,SG,ProcessorBeta,approved
+TXN-00562,MERCH-002,Tokopulse Marketplace,5999,440.08,GBP,2026-02-14,411111,0908,credit,GB,ProcessorGamma,approved
+TXN-00563,MERCH-001,Tokopulse Wallet Topup,5816,418.42,BRL,2026-02-19,411511,7180,credit,BR,ProcessorBeta,approved
+TXN-00564,MERCH-004,Tokopulse Gaming,5968,304.06,USD,2026-03-01,424242,7672,credit,US,ProcessorAlpha,approved
+TXN-00565,MERCH-001,Tokopulse Wallet Topup,5816,565042.41,IDR,2026-03-02,411111,2874,credit,ID,ProcessorAlpha,approved
+TXN-00566,MERCH-002,Tokopulse Marketplace,5816,375.86,USD,2026-04-17,545454,6953,prepaid,US,ProcessorBeta,approved
+TXN-00567,MERCH-001,Tokopulse Wallet Topup,5912,653902.91,IDR,2026-02-08,650400,6800,credit,ID,ProcessorGamma,approved
+TXN-00568,MERCH-003,Tokopulse Premium Subscription,5816,748244.29,IDR,2026-03-15,650400,3258,credit,ID,ProcessorAlpha,approved
+TXN-00569,MERCH-002,Tokopulse Marketplace,5999,335446.08,IDR,2026-03-11,601100,1392,credit,ID,ProcessorAlpha,approved
+TXN-00570,MERCH-002,Tokopulse Marketplace,5816,385852.32,IDR,2026-02-23,401234,9700,debit,ID,ProcessorAlpha,approved
+TXN-00571,MERCH-004,Tokopulse Gaming,5999,102.99,USD,2026-04-16,510510,3816,credit,SG,ProcessorAlpha,approved
+TXN-00572,MERCH-003,Tokopulse Premium Subscription,5816,311496.22,IDR,2026-03-17,470100,6421,prepaid,ID,ProcessorBeta,approved
+TXN-00573,MERCH-002,Tokopulse Marketplace,5999,8.17,USD,2026-04-02,650400,6580,debit,US,ProcessorAlpha,approved
+TXN-00574,MERCH-003,Tokopulse Premium Subscription,5816,474.91,USD,2026-02-18,424242,6533,debit,SG,ProcessorBeta,approved
+TXN-00575,MERCH-002,Tokopulse Marketplace,5999,420650.67,IDR,2026-04-24,549920,0438,prepaid,ID,ProcessorAlpha,approved
+TXN-00576,MERCH-003,Tokopulse Premium Subscription,5732,216889.72,IDR,2026-04-07,650400,8715,debit,ID,ProcessorGamma,approved
+TXN-00577,MERCH-004,Tokopulse Gaming,5968,299532.69,IDR,2026-04-18,453210,0274,debit,ID,ProcessorBeta,approved
+TXN-00578,MERCH-004,Tokopulse Gaming,5999,23817.75,IDR,2026-03-14,453210,6181,credit,ID,ProcessorAlpha,approved
+TXN-00579,MERCH-001,Tokopulse Wallet Topup,5816,556490.55,IDR,2026-02-17,545454,0943,debit,ID,ProcessorAlpha,approved
+TXN-00580,MERCH-003,Tokopulse Premium Subscription,5816,473.74,USD,2026-04-11,453210,2434,debit,NG,ProcessorBeta,declined
+TXN-00581,MERCH-002,Tokopulse Marketplace,5732,430.01,USD,2026-03-21,411111,2940,prepaid,NG,ProcessorAlpha,approved
+TXN-00582,MERCH-002,Tokopulse Marketplace,5816,56120.21,IDR,2026-02-15,510510,2760,credit,ID,ProcessorAlpha,approved
+TXN-00583,MERCH-004,Tokopulse Gaming,5816,160126.65,IDR,2026-03-17,424242,5908,credit,ID,ProcessorBeta,declined
+TXN-00584,MERCH-004,Tokopulse Gaming,5912,201185.14,IDR,2026-03-01,549920,2868,credit,ID,ProcessorAlpha,approved
+TXN-00585,MERCH-002,Tokopulse Marketplace,5816,342464.83,IDR,2026-04-20,424242,7202,prepaid,ID,ProcessorBeta,approved
+TXN-00586,MERCH-001,Tokopulse Wallet Topup,5816,456742.55,IDR,2026-03-15,650400,2416,credit,ID,ProcessorBeta,approved
+TXN-00587,MERCH-002,Tokopulse Marketplace,5411,130118.79,IDR,2026-04-23,650400,8435,credit,ID,ProcessorAlpha,approved
+TXN-00588,MERCH-003,Tokopulse Premium Subscription,5816,464.51,BRL,2026-04-25,601100,9503,prepaid,BR,ProcessorAlpha,declined
+TXN-00589,MERCH-002,Tokopulse Marketplace,5816,212676.88,IDR,2026-02-27,549920,0070,prepaid,ID,ProcessorGamma,approved
+TXN-00590,MERCH-003,Tokopulse Premium Subscription,5999,134.83,GBP,2026-04-19,549920,8946,debit,GB,ProcessorAlpha,approved
+TXN-00591,MERCH-003,Tokopulse Premium Subscription,5816,78.80,USD,2026-02-10,453210,9609,prepaid,SG,ProcessorBeta,approved
+TXN-00592,MERCH-004,Tokopulse Gaming,5816,447890.81,IDR,2026-02-17,470100,1862,prepaid,ID,ProcessorAlpha,approved
+TXN-00593,MERCH-004,Tokopulse Gaming,5968,83.46,BRL,2026-03-29,650400,8091,prepaid,BR,ProcessorBeta,approved
+TXN-00594,MERCH-003,Tokopulse Premium Subscription,5968,219256.57,IDR,2026-03-19,545454,8205,prepaid,ID,ProcessorAlpha,approved
+TXN-00595,MERCH-004,Tokopulse Gaming,5968,230.83,GBP,2026-03-12,401234,7745,credit,GB,ProcessorAlpha,declined
+TXN-00596,MERCH-001,Tokopulse Wallet Topup,5968,54342.43,IDR,2026-04-10,470100,5760,prepaid,ID,ProcessorBeta,declined
+TXN-00597,MERCH-004,Tokopulse Gaming,5732,39446.27,IDR,2026-04-02,545454,0563,credit,ID,ProcessorAlpha,approved
+TXN-00598,MERCH-004,Tokopulse Gaming,5816,365.92,USD,2026-03-15,401234,2238,prepaid,SG,ProcessorGamma,approved
+TXN-00599,MERCH-001,Tokopulse Wallet Topup,5732,206303.58,IDR,2026-02-21,552233,7764,credit,ID,ProcessorAlpha,approved
+TXN-00600,MERCH-003,Tokopulse Premium Subscription,5816,133389.11,IDR,2026-04-19,510510,1033,prepaid,ID,ProcessorAlpha,declined

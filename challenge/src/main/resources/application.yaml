@@ -1,0 +1,84 @@
+spring:
+  application:
+    name: chargeback-intelligence
+
+  # ---------------------------------------------------------------------------
+  # H2 in-memory DB by default for zero-friction local demo.
+  # To switch to Postgres, set SPRING_PROFILES_ACTIVE=postgres (see profile below).
+  # ---------------------------------------------------------------------------
+  datasource:
+    url: jdbc:h2:mem:chargeback_db;MODE=PostgreSQL;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      connection-timeout: 30000
+
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+    open-in-view: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+        format_sql: true
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      fail-on-unknown-properties: false
+    default-property-inclusion: non_null
+
+server:
+  port: 8080
+  error:
+    include-message: always
+    include-binding-errors: always
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always
+
+logging:
+  level:
+    yuno.challenge: DEBUG
+
+# ---------------------------------------------------------------------------
+# Optional Postgres profile — activate with SPRING_PROFILES_ACTIVE=postgres
+# ---------------------------------------------------------------------------
+---
+spring:
+  config:
+    activate:
+      on-profile: postgres
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/chargeback_db
+    username: ${DB_USERNAME:chargeback}
+    password: ${DB_PASSWORD:chargeback}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
